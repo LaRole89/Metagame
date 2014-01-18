@@ -9,5 +9,66 @@
 root { 
     display: block;
 }
+/*stili di base - Mobile First*/
 
+header{
+    background: #002a3f;
+    height: 200px;
+}
 
+#logotitle{
+    display: none;
+}
+
+#menuicon{
+    position: absolute;
+    top: 40px;
+    right: auto;
+    left: 10px;
+}
+#menuicon img{
+    width: 60px;
+}
+
+#logo{
+    margin: auto;
+    width: 85px;
+}
+#logo img{
+    width: 85px;
+}
+
+#search{
+    position: absolute;
+    top: 40px;
+    right: 10px;
+    left: auto;
+}
+#search img{
+    width: 60px;
+}
+
+/* == Media queries (breakpoint) ===== */
+ 
+ 
+/* -----------------------------------
+IPAD PORTRAIT 768px
+------------------------------------ */
+@media only screen and (min-width: 768px) {
+ 
+}
+ 
+ 
+/* -----------------------------------
+IPAD LANDSCAPE + NETBOOK 1024
+------------------------------------ */
+@media only screen and (min-width: 1024px){
+     
+}
+ 
+/* -----------------------------------
+DESKTOP 1200px
+------------------------------------ */
+@media only screen and (min-width: 1200px){
+     
+}

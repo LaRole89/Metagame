@@ -10,7 +10,7 @@
 
 <header>
     <div id="menuicon">
-        <img src="img/menu_icon.phg"/>
+        <img src="img/menu_icon.png"/>
     </div>
     <div id="logo">
         <img src="img/logo.png" />
@@ -20,14 +20,15 @@
     <nav>
         
     </nav>
+    
     <div id="logotitle">
-        <img src="logotitple.png"/>
+        <img src="img/logotitle.png"/>
     </div>
-    <div>
+    <div id="search">
         <img src="img/search_icon.png" />
     </div>
     <div id="login">
-        
+        <a href="login.php" class="ui-btn">LOGIN</a>
     </div>
     
 </header>
