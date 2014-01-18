@@ -2,6 +2,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <!--css -->
+        <link rel="stylesheet" href="style.css" type="text/css" />
+        <!-- jquery e jquery mobile -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/latest/jquery.js"></script>
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.css" />
@@ -11,7 +14,8 @@
     </head>
     <body>
         <?php
-        // put your code here
+        include 'header.php';
+        include 'footer.php';
         ?>
     </body>
 </html>
