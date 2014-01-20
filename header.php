@@ -10,25 +10,39 @@
 
 <header>
     <div id="menuicon">
-        <img src="img/menu_icon.png"/>
+        <a href="#menuphone"><img src="img/menu_icon.png"/></a>
     </div>
     <div id="logo">
         <img src="img/logo.png" />
     </div>
     
     
-    <nav>
-        
+    <nav id="navprincipale">
+        <ul id="menu">
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">SHOP</a>
+                <ul>
+                    <li><a href="#">Categorie</a></li>
+                    <li><a href="#">Console</a></li>
+                </ul>
+            </li>
+            <li><a href="#">OFFERTE</a></li>
+            <li><a href="#">NEWS</a></li>
+            <li><a href="#">NOW</a></li>
+            <li><a href="#">BLOG</a></li>
+            <li><a href="#">FORUM</a></li>
+            <li><a href="#">APP STORE</a></li>
+        </ul>
     </nav>
     
     <div id="logotitle">
         <img src="img/logotitle.png"/>
     </div>
     <div id="search">
-        <img src="img/search_icon.png" />
+        <a href="#searchpage"><img src="img/search_icon.png" /></a>
     </div>
     <div id="login">
-        <a href="login.php" class="ui-btn">LOGIN</a>
+        <a href="#loginpage" class="ui-btn">LOGIN</a>
     </div>
     
 </header>

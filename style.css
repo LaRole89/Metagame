@@ -10,12 +10,14 @@ root {
     display: block;
 }
 /*stili di base - Mobile First*/
-
+        /*HEADER*/
 header{
     background: #002a3f;
-    height: 200px;
-}
 
+}
+#navprincipale{
+    display: none;
+}
 #logotitle{
     display: none;
 }
@@ -47,6 +49,29 @@ header{
 #search img{
     width: 60px;
 }
+/*FINE HEADER*/
+    
+/*FOOTER*/
+footer{
+    position: relative;
+    width: 100%;
+    padding: 30px 0 30px 0;
+    background: #002a3f;
+        
+}
+#navfooter{
+    display: none;
+}
+
+#logofooter{
+    width: 237px;
+    margin: auto;
+
+}
+#logofooter img{
+    width: 237px;
+}
+    /*FINE FOOTER*/
 
 /* == Media queries (breakpoint) ===== */
  
@@ -55,7 +80,45 @@ header{
 IPAD PORTRAIT 768px
 ------------------------------------ */
 @media only screen and (min-width: 768px) {
- 
+    /*HEADER*/
+    #menuicon{
+        position: absolute;
+        top: 40px;
+        right: auto;
+        left: 30px;
+    }
+    #menuicon img{
+        width: 95px;
+    }
+
+    #logo{
+        width: 135px;
+    }
+    #logo img{
+        width: 135px;
+    }
+
+    #search{
+        position: absolute;
+        top: 40px;
+        right: 30px;
+        left: auto;
+    }
+    #search img{
+        width: 95px;
+    }
+    /*FINE HEADER*/
+    /*FOOTER*/
+
+    #logofooter{
+        width: 380px;
+        margin: auto;
+
+    }
+    #logofooter img{
+        width: 380px;
+    }
+    /*FINE FOOTER*/
 }
  
  
@@ -63,7 +126,101 @@ IPAD PORTRAIT 768px
 IPAD LANDSCAPE + NETBOOK 1024
 ------------------------------------ */
 @media only screen and (min-width: 1024px){
-     
+     /*HEADER*/
+     #menuicon{
+         display:none;
+     }
+     #search{
+         display: none; 
+     }
+     #logo{
+        width: 95px;
+    }
+    #logo img{
+        width: 95px;
+    }
+
+    #navprincipale{
+        display: block;
+        width: 960px;
+        margin: 0 auto;
+    }
+    #login{
+        clear: left;
+    }
+    
+    /*menu*/
+
+    ul#menu {
+            margin:60px 0 0;
+            padding: 0;
+            list-style: none;
+            width: 960px;
+
+    }
+
+    ul#menu li {
+            margin:0;
+            padding:0;
+            float:left;
+            display: block;
+            position: relative;
+    }
+
+    ul#menu li a {
+            float: left;
+            padding:12px 30px;
+            color: #fff;
+            text-transform: uppercase;
+            text-decoration:none;
+    }
+
+    ul#menu li a:hover {
+            background: white;
+            color:#002a3f;
+    }
+
+    ul#menu ul {
+            margin:2px 0 0;
+            padding:0;
+            display:inline-block;
+            list-style: none;
+            opacity: 0;
+            visibility: hidden;
+            position: absolute;
+            top: 38px;
+            left: 0;
+            z-index:9999;
+            background: #002a3f;;
+    }
+
+    ul#menu li:hover ul {
+            opacity: 1;
+            visibility: visible;
+    }
+
+    ul#menu ul li  {
+            float: none;
+            display: block;
+            border: 0;
+    }
+
+    ul#menu ul a {
+            padding:10px;
+            width: 130px;
+            display: block;
+            white-space: nowrap;
+            float: none;
+            text-transform: none;
+    }
+
+    ul#menu ul a:hover {
+            background-color: white;
+            color:#002a3f;
+    }
+    /*fine menu*/
+
+     /*FINE HEADER*/
 }
  
 /* -----------------------------------

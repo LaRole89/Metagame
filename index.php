@@ -13,14 +13,30 @@
         <title></title>
     </head>
     <body>
+        <div data-role="page" id="first_page">
         <?php
         include 'header.php';
         ?>
         
-        
+            <p>
+                prova
+            </p>
         
         <?php
         include 'footer.php';
-        ?>
+        ?>    
+        </div>
+  
+        
+        <div data-role="page" id="menuphone">
+                menu
+        </div>
+        <div data-role="page" id="searchpage">
+            search
+        </div>
+        <div data-role="page" id="loginpage">
+            login
+        </div>
     </body>
+
 </html>
