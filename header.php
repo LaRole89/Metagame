@@ -9,6 +9,9 @@
 ?>
 
 <header>
+    <div style="position:absolute; left: 0; top:0; width: 10px; height: 275px; background: white;">
+        
+    </div>
     <div id="menuicon">
         <a href="#menuphone"><img src="img/menu_icon.png"/></a>
     </div>
@@ -37,9 +40,11 @@
     
     <div id="logotitle">
         <img src="img/logotitle.png"/>
+
     </div>
     <div id="search">
-        <a href="#searchpage"><img src="img/search_icon.png" /></a>
+        <a href="#searchpage"><img id="iconamobile" src="img/search_icon.png" /></a>
+        <a href="#searchpage"><img id="iconadesk" src="img/search_icon_min.png" /></a>
     </div>
     <div id="login">
         <a href="#loginpage" class="ui-btn">LOGIN</a>

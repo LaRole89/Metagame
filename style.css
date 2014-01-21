@@ -9,12 +9,30 @@
 root { 
     display: block;
 }
+
+/*STILE MENU PHONE*/
+.ui-li-static.ui-collapsible > .ui-collapsible-heading {
+    margin: 0;
+}
+.ui-li-static.ui-collapsible {
+    padding: 0;
+}
+.ui-li-static.ui-collapsible > .ui-collapsible-heading > .ui-btn {
+    border-top-width: 0;
+}
+.ui-li-static.ui-collapsible > .ui-collapsible-heading.ui-collapsible-heading-collapsed > .ui-btn,
+.ui-li-static.ui-collapsible > .ui-collapsible-content {
+    border-bottom-width: 0;
+}
+
+
 /*stili di base - Mobile First*/
         /*HEADER*/
 header{
     background: #002a3f;
 
 }
+
 #navprincipale{
     display: none;
 }
@@ -48,6 +66,9 @@ header{
 }
 #search img{
     width: 60px;
+}
+#search #iconadesk{
+    display: none;
 }
 /*FINE HEADER*/
     
@@ -127,13 +148,31 @@ IPAD LANDSCAPE + NETBOOK 1024
 ------------------------------------ */
 @media only screen and (min-width: 1024px){
      /*HEADER*/
+     header{
+         min-height: 350px;
+     }
      #menuicon{
          display:none;
      }
      #search{
+         position: absolute;
+         background: white;
+         left: 50%;
+         top:300px;
+         margin-left: -100px;
+         height: 40px;
+         width: 200px;
+     }
+     #search #iconamobile{
          display: none; 
      }
+     #search #iconadesk{
+         display: block;
+         height: 40px;
+         width: 40px;
+     }
      #logo{
+        padding-top: 30px;
         width: 95px;
     }
     #logo img{
@@ -145,14 +184,36 @@ IPAD LANDSCAPE + NETBOOK 1024
         width: 960px;
         margin: 0 auto;
     }
-    #login{
+    #logotitle{
+        width: 200px;
+        height: 40px;
+        
+        position: absolute;
+        display: block;
         clear: left;
+        top: 300px;
+        left:150px;
+    }
+    #logotitle img{
+        width: 200px;
+    }
+    #login{
+        height: 40px;
+        position: absolute;
+        top: 300px;
+        right: 150px;
+        width: 200px;
+    }
+    #login a.ui-btn{
+        padding: 10px 0 0 0;
+        margin: 0;
+        height: 30px;
     }
     
     /*menu*/
 
     ul#menu {
-            margin:60px 0 0;
+            margin:20px 0 0 0;
             padding: 0;
             list-style: none;
             width: 960px;

@@ -28,15 +28,9 @@
         </div>
   
         
-        <div data-role="page" id="menuphone">
-                menu
-        </div>
-        <div data-role="page" id="searchpage">
-            search
-        </div>
-        <div data-role="page" id="loginpage">
-            login
-        </div>
+        <?php
+        include 'pagemobile.php';
+        ?>
     </body>
 
 </html>
