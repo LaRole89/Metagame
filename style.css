@@ -5,6 +5,19 @@
     Description:
         Purpose of the stylesheet follows.
 */
+/*reset default */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, table, legend, caption, tbody, tfoot, thead, th{
+    margin:0;padding:0;border:0;outline:0; ont-size:100%;vertical-align:baseline;background: transparent;
+}
+body { line-height: 1; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+:focus { outline: 0; }    
+ins { text-decoration: none; } 
+del { text-decoration: line-through; }
+table { border-collapse: collapse; border-spacing: 1; } 
+a {  text-decoration: none;}
+/*fine reset default */
 
 root { 
     display: block; 
@@ -82,6 +95,7 @@ footer{
     width: 100%;
     padding: 30px 0 30px 0;
     background: #002a3f;
+    height: 250px;
 }
 #navfooter{
     display: none;
@@ -90,6 +104,7 @@ footer{
 #logofooter{
     width: 237px;
     margin: auto;
+    text-align: center;
 
 }
 #logofooter img{
@@ -279,7 +294,6 @@ IPAD LANDSCAPE + NETBOOK 1024
             margin:2px 0 0;
             padding:0;
             display:inline-block;
-            list-style: none;
             opacity: 0;
             visibility: hidden;
             position: absolute;
@@ -316,6 +330,55 @@ IPAD LANDSCAPE + NETBOOK 1024
     /*fine menu*/
 
      /*FINE HEADER*/
+     
+     /*FOOTER*/
+    #navfooter{
+        display:block;
+        min-height: 200px;
+    }
+    #container{
+        width: 960px;
+        margin: 0 auto;
+        
+    }
+    #footerCol{
+        display: inline;
+        float: left;
+        width: 130px;
+        list-style: disc;
+        padding-left: 80px;
+
+    }
+    #footerCol li{
+        margin-left: 30px;
+    }
+    #logofooter{
+       vertical-align: bottom;
+    }
+    #logofooter img{
+        width: 135px;
+    }
+    #social{
+       clear: left; 
+       width: 200px;
+       height: 35px;
+       vertical-align: central;
+        position: absolute;
+        bottom: 50px;
+        left: 150px;
+
+    }
+    #copyright{
+position: absolute;
+bottom: 50px;
+text-align: right;
+       width: 200px;
+       height: 35px;
+       vertical-align: central;
+       right: 150px;
+    }
+
+     /*FINE FOOTER*/
 }
  
 /* -----------------------------------
