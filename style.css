@@ -149,7 +149,9 @@ IPAD LANDSCAPE + NETBOOK 1024
 @media only screen and (min-width: 1024px){
      /*HEADER*/
      header{
-         min-height: 350px;
+         background-image:url('img/Header_Immagine.png');
+         background-repeat: no-repeat;
+         min-height: 250px;
      }
      #menuicon{
          display:none;
@@ -158,25 +160,26 @@ IPAD LANDSCAPE + NETBOOK 1024
          position: absolute;
          background: white;
          left: 50%;
-         top:300px;
+         top:205px;
          margin-left: -100px;
-         height: 40px;
+         height: 30px;
          width: 200px;
      }
      #search #iconamobile{
          display: none; 
      }
      #search #iconadesk{
+         margin: 2px;
          display: block;
-         height: 40px;
-         width: 40px;
+         height: 25px;
+         width: 25px;
      }
      #logo{
-        padding-top: 30px;
+        padding-top: 10px;
         width: 95px;
     }
     #logo img{
-        width: 95px;
+        width: 75px;
     }
 
     #navprincipale{
@@ -186,34 +189,34 @@ IPAD LANDSCAPE + NETBOOK 1024
     }
     #logotitle{
         width: 200px;
-        height: 40px;
+        height: 30px;
         
         position: absolute;
         display: block;
         clear: left;
-        top: 300px;
+        top: 205px;
         left:150px;
     }
     #logotitle img{
-        width: 200px;
+        width: 170px;
     }
     #login{
-        height: 40px;
+        height: 30px;
         position: absolute;
-        top: 300px;
+        top: 205px;
         right: 150px;
         width: 200px;
     }
     #login a.ui-btn{
-        padding: 10px 0 0 0;
+        padding: 4px 0 0 0;
         margin: 0;
-        height: 30px;
+        height: 20px;
     }
     
     /*menu*/
 
     ul#menu {
-            margin:20px 0 0 0;
+            margin:5px 0 0 0;
             padding: 0;
             list-style: none;
             width: 960px;
@@ -252,7 +255,7 @@ IPAD LANDSCAPE + NETBOOK 1024
             top: 38px;
             left: 0;
             z-index:9999;
-            background: #002a3f;;
+            background: #224869;
     }
 
     ul#menu li:hover ul {
@@ -287,6 +290,6 @@ IPAD LANDSCAPE + NETBOOK 1024
 /* -----------------------------------
 DESKTOP 1200px
 ------------------------------------ */
-@media only screen and (min-width: 1200px){
+@media only screen and (min-width: 1440px){
      
 }

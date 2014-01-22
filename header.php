@@ -9,7 +9,7 @@
 ?>
 
 <header>
-    <div style="position:absolute; left: 0; top:0; width: 10px; height: 275px; background: white;">
+    <div style="position:absolute; left: 0; top:0; width: 10px; height: 191px; background: white;">
         
     </div>
     <div id="menuicon">
@@ -29,9 +29,27 @@
                     <li><a href="#">Console</a></li>
                 </ul>
             </li>
-            <li><a href="#">OFFERTE</a></li>
-            <li><a href="#">NEWS</a></li>
-            <li><a href="#">NOW</a></li>
+            <li><a href="#">OFFERTE</a>
+                    <ul>
+                      <li><a href="#">Le nostre offerte</a></li>
+                      <li><a href="#">Offerta del giorno</a></li>                                            
+                    </ul>
+            </li>
+            <li><a href="#">NEWS</a>
+                    <ul>
+                      <li><a href="#">News Giochi</a></li>
+                      <li><a href="#">News Staff</a></li>
+                      <li><a href="#">Prossime Uscite</a></li>    
+                    </ul>
+            </li>
+            <li><a href="#">NOW</a>
+                    <ul>
+                      <li><a href="#">Sondaggi</a></li>
+                      <li><a href="#">Interviste</a></li>
+                      <li><a href="#">Recensioni</a></li> 
+                      <li><a href="#">Video Gameplay</a></li> 
+                    </ul>
+            </li>
             <li><a href="#">BLOG</a></li>
             <li><a href="#">FORUM</a></li>
             <li><a href="#">APP STORE</a></li>
