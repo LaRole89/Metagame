@@ -17,10 +17,12 @@
         <?php
         include 'header.php';
         ?>
-        
-            <p>
-                prova
-            </p>
+            <article>
+                <p>
+                    prova
+                </p>   
+            </article>
+
         
         <?php
         include 'footer.php';
