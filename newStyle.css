@@ -1,0 +1,30 @@
+#conteinerBlogger{
+	overflow:auto;
+	text-align: center;
+}
+
+#conteinerBlog{
+	margin: 50px;
+
+}
+
+#SchedaBlogger{
+	display: inline-block;
+
+	margin:20px auto;
+
+	width: 350px;/*larghezza*/
+	height:110px;/*altezza*/
+
+	text-align: left;
+	background: yellow;
+}
+
+#imgblogger{
+	height:75px;
+	width:75px;
+}
+
+#datiblogger{
+	margin-left: 85px;
+}
