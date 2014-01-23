@@ -17,6 +17,7 @@ ins { text-decoration: none; }
 del { text-decoration: line-through; }
 table { border-collapse: collapse; border-spacing: 1; } 
 a {  text-decoration: none;}
+
 /*fine reset default */
 
 root { 
@@ -25,6 +26,7 @@ root {
 #first_page{
     background: #426793;
 }
+
 /*STILE MENU PHONE*/
 .ui-li-static.ui-collapsible > .ui-collapsible-heading {
     margin: 0;
@@ -122,6 +124,33 @@ footer a{
 }
     /*FINE FOOTER*/
     
+/*CONTENUTI*/
+article{
+    margin-left: auto;
+    margin-right: auto;
+    width: 440px;
+    text-align: center;
+    font-size: 14pt;
+    color: white;
+    padding-bottom: 25px;
+}
+article a{
+    color: white;
+    font-style: italic;
+    text-decoration: underline;
+}
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 400px;
+    text-transform: uppercase;
+}
+#path{
+    display: none;
+}
+/*FINE CONTENUTI*/
+    
     /*BLOG*/
 #conteinerBlogger{
 	overflow:auto;
@@ -182,6 +211,20 @@ IPAD PORTRAIT 768px
         width: 95px;
     }
     /*FINE HEADER*/
+    /*CONTENUTI*/
+    article{
+        margin-left: auto;
+        margin-right: auto;
+        width: 700px;
+        text-align: center;
+        font-size: 14pt;
+        color: white;
+    }
+    h1{
+        width: 400px;
+    }
+
+    /*FINE CONTENUTI*/
     /*FOOTER*/
 
     #logofooter{
@@ -200,6 +243,11 @@ IPAD PORTRAIT 768px
 IPAD LANDSCAPE + NETBOOK 1024
 ------------------------------------ */
 @media only screen and (min-width: 1024px){
+    a{
+    color: #002a3f;
+    font-style: italic;
+    text-decoration: underline;
+    }
      /*HEADER*/
      header{
          background-image:url('img/Header_Immagine.png');
@@ -341,6 +389,29 @@ IPAD LANDSCAPE + NETBOOK 1024
     /*fine menu*/
 
      /*FINE HEADER*/
+    /*CONTENUTI*/
+    article{
+        width: 960px;
+        text-align: left;
+        font-size: 12pt;
+        color: #002a3f;
+    }
+    h1{
+        width: 600px;
+        text-align: center;
+    }
+    #path{
+        display: inline;
+        text-transform: lowercase;
+    }
+    label{
+        text-align: center;
+    }
+    form{
+        margin: 0 auto;
+        max-width: 400px;
+    }
+    /*FINE CONTENUTI*/
      
      /*FOOTER*/
      footer{
