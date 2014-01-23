@@ -95,12 +95,22 @@ footer{
     width: 100%;
     padding: 30px 0 30px 0;
     background: #002a3f;
-    height: 250px;
+    
+    color: white;
+    font-weight: lighter;
+}
+footer a{
+    font-weight: lighter;
 }
 #navfooter{
     display: none;
 }
-
+#social{
+    display: none;
+}
+#copyright{
+    display: none;
+}
 #logofooter{
     width: 237px;
     margin: auto;
@@ -283,6 +293,7 @@ IPAD LANDSCAPE + NETBOOK 1024
             color: #fff;
             text-transform: uppercase;
             text-decoration:none;
+            font-weight: lighter;
     }
 
     ul#menu li a:hover {
@@ -332,9 +343,19 @@ IPAD LANDSCAPE + NETBOOK 1024
      /*FINE HEADER*/
      
      /*FOOTER*/
+     footer{
+         height: 250px;
+     }
     #navfooter{
         display:block;
         min-height: 200px;
+    }
+    #navfooter a{
+    color: white;
+    font-weight: lighter;
+    }
+    #navfooter a:hover{
+        text-decoration: underline;
     }
     #container{
         width: 960px;
@@ -359,6 +380,7 @@ IPAD LANDSCAPE + NETBOOK 1024
         width: 135px;
     }
     #social{
+        display: block;
        clear: left; 
        width: 200px;
        height: 35px;
@@ -369,6 +391,7 @@ IPAD LANDSCAPE + NETBOOK 1024
 
     }
     #copyright{
+        display: block;
 position: absolute;
 bottom: 50px;
 text-align: right;

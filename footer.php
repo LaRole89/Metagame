@@ -76,15 +76,15 @@
 			<!-- contenitore listato link di social network -->
 			
 			<a title="Facebook" href="http://www.facebook.com/">
-				<img width="30" height="30" src="/Metagame/Img/Social/facebook.png"> </span>
+				<img width="30" height="30" src="/Metagame/img/Social/facebook.png"> </span>
 			</a>
 			
 			<a title="Twitter" href="http://www.twitter.com/">
-				<img width="30" height="30"src="/Metagame/Img/Social/twitter.png"> </span>
+				<img width="30" height="30"src="/Metagame/img/Social/twitter.png"> </span>
 			</a>
 			
-			<a title="Youtube" href="http://www.youtube.com/">
-				<img width="30" height="30" src="/Metagame/Img/Social/youtube.png">
+			<a title="Youtube" href="http://www.google.com/">
+				<img width="30" height="30" src="/Metagame/img/Social/gplus.png">
 			</a>
 			
 		</div>
