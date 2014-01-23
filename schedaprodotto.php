@@ -4,7 +4,6 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!--css -->
         <link rel="stylesheet" href="style.css" type="text/css" />
-        <link rel="stylesheet" href="stylemio.css" type="text/css" />
         <!-- jquery e jquery mobile -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/latest/jquery.js"></script>
@@ -21,18 +20,19 @@
             <article>
                 <p id="path"> Home > Shop > SCHEDA PRODOTTO </p>
                 <h1>
-                Scheda prodotto
+                Assassin's Cread
                 </h1>
                 <img src="img/giochi/AC4.jpg" id="cover">
                 <div id = dati>
-                    <h4>Genere:</h4> Action/Adventure
-                    <h4>Versione:</h4> PAL - ITA
-                    <h4>Supporto:</h4> Blu-Ray
-                    <h4>Giocatori:</h4> 1
-                    <h4>Online:</h4> Possibile
-                    <h4>Voto:</h4> Stelline da mettere
+                    <br/>
+                    <h4>Genere:</h4> Action/Adventure<br/>
+                    <h4>Versione:</h4> PAL - ITA<br/>
+                    <h4>Supporto:</h4> Blu-Ray<br/><br/>
+                    <h4>Giocatori:</h4> 1<br/>
+                    <h4>Online:</h4> Possibile<br/>
+                    <h4>Voto:</h4> Stelline da mettere<br/>
                 </div>
-                <h2 class="categoria">
+                <h2>
                     Descrizione
                 </h2>
                 <p id="descrizione">
@@ -61,13 +61,13 @@
                     • UNA NUOVA ESPERIENZA MULTIGIOCATORE – Affronta i tuoi amici o collabora con loro in una nuova esperienza multigiocatore davvero avvincente. Scegli tra un vasto assortimento di personaggi e combatti fino alla fine in alcune mappe esotiche a tema.<br />
 
                 </p>
-                <h2 class="categoria">
+                <h2>
                     Trailer
                 </h2>
                 <video controls class="video">
                     <source src="Video/Assassins Creed 4 black Flag - Cinematic Trailer - da Ubisoft.mp4" type="video/mp4" />
                 </video>
-                <h2 class="categoria">
+                <h2>
                     Video Gameplay
                 </h2>
                 <video controls class="video">
@@ -82,10 +82,10 @@
                     <source src="Video/PS4 - Assassins Creed IV Black Flag [Gameplay Ita].mp4" type="video/mp4" />
                     Il tuo browser non supporta i video in HTML5
                 </video>
-                <h2 class="categoria">
+                <h2>
                     News
                 </h2>
-                <h2 class="categoria">
+                <h2>
                     Interviste
                 </h2>
                 <video controls class="video">
@@ -96,7 +96,7 @@
                     <source src="Video/Assassins Creed 4_ Black Flag - EXCLUSIVE Ashraf Ismail Interview - Eurogamer.mp4" type="video/mp4" />
                     Il tuo browser non supporta i video in HTML5
                 </video>
-                <h2 class="categoria">
+                <h2>
                     Sondaggi
                 </h2>
                 <form action="" class="sondaggio">
@@ -127,7 +127,7 @@
                     </fieldset>
                     <input type="submit" value="Conferma" class="confermasondaggio" /> 
                 </form>
-                <h2 class="categoria">
+                <h2>
                     Commenti
                 </h2>
                 <div class=commento>

@@ -25,6 +25,7 @@ root {
 }
 #first_page{
     background: #426793;
+    text-shadow:none;
 }
 
 /*STILE MENU PHONE*/
@@ -132,6 +133,7 @@ article{
     text-align: center;
     font-size: 14pt;
     color: white;
+    font-weight: 100;
     padding-bottom: 25px;
 }
 article a{
@@ -149,6 +151,38 @@ h1{
 #path{
     display: none;
 }
+        /*SCHEDA PRODOTTO*/
+        #cover{
+            text-align: center;
+            width: 350px;
+            height: auto;
+        }
+        
+        #dati{
+
+            margin-left: auto;
+            margin-right: auto;
+            width: 350px;
+            column-gap: 25px;
+            column-count: 2;
+            -webkit-column-gap: 25px;
+            -webkit-column-count: 2;
+            -moz-column-gap: 25px;
+            -moz-column-count: 2;
+        }
+        #descrizione{
+            text-align: justify;
+        }
+        .video{
+            width: 350px;
+            height: auto;
+        }
+        h2{
+           margin-top: 25px;
+             margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+        /*FINE SCHEDA PRODOTTO*/
 /*FINE CONTENUTI*/
     
     /*BLOG*/
@@ -243,7 +277,7 @@ IPAD PORTRAIT 768px
 IPAD LANDSCAPE + NETBOOK 1024
 ------------------------------------ */
 @media only screen and (min-width: 1024px){
-    a{
+    article a{
     color: #002a3f;
     font-style: italic;
     text-decoration: underline;
@@ -411,6 +445,32 @@ IPAD LANDSCAPE + NETBOOK 1024
         margin: 0 auto;
         max-width: 400px;
     }
+    
+        /*SCHEDA PRODOTTO*/
+        #dati{
+            margin-top: 50px;
+            margin-left: 30px;
+            margin-right: 180px;
+            width: 250px;
+            text-align: left;
+            column-gap: 0px;
+            column-count: 1;
+            -webkit-column-gap: 0px;
+            -webkit-column-count: 1;
+            -moz-column-gap: 0px;
+            -moz-column-count: 1;
+            float: right;
+        }
+        .video{
+            width: 720px;
+            height: auto;
+        }
+        #cover{
+            margin-left: 100px;
+            width: 350px;
+            height: auto;
+        }
+        /*FINE SCHEDA PRODOTTO*/
     /*FINE CONTENUTI*/
      
      /*FOOTER*/

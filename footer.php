@@ -35,7 +35,7 @@
 
 					<ul>
 						<li><a href="#"> Contatti </a></li>
-						<li><a href="#"> Social Network </a></li>
+						<li><a href="#"> Social </a></li>
 						<li><a href="#"> Punti Vendita </a></li>
 					</ul>
 				
