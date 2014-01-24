@@ -22,12 +22,30 @@
                 <h1>
                 Giochi
                 </h1>
-                <div class="scheda">
+                <div class="containergiochi">
                     <a href="schedaprodotto.php"> <img src="img/giochi/AC4.jpg" class="giochi"/> </a>
                     <p>60 euro</p>
-                    
                 </div>
-                
+                <div class="containergiochi">
+                    <a href="schedaprodotto.php"> <img src="img/giochi/Thief.jpg" class="giochi"/> </a>
+                    <p>45 euro</p>
+                </div>
+                <div class="containergiochi">
+                    <a href="schedaprodotto.php"> <img src="img/giochi/Killzone.jpg" class="giochi"/> </a>
+                    <p>70 euro</p>
+                </div>
+                <div class="containergiochi">
+                    <a href="schedaprodotto.php"> <img src="img/giochi/AC4.jpg" class="giochi"/> </a>
+                    <p>60 euro</p>
+                </div>
+                <div class="containergiochi">
+                    <a href="schedaprodotto.php"> <img src="img/giochi/Thief.jpg" class="giochi"/> </a>
+                    <p>45 euro</p>
+                </div>
+                <div class="containergiochi">
+                    <a href="schedaprodotto.php"> <img src="img/giochi/Killzone.jpg" class="giochi"/> </a>
+                    <p>70 euro</p>
+                </div>
             </article>
         
         <?php

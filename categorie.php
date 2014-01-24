@@ -4,7 +4,6 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!--css -->
         <link rel="stylesheet" href="style.css" type="text/css" />
-
         <!-- jquery e jquery mobile -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/latest/jquery.js"></script>
@@ -26,6 +25,7 @@
                 <a href="giochi.php"> <img src="img/categorie/Scheda_Categoria_Adventure.png" class="catecons"/> </a>
                 <a href="giochi.php"> <img src="img/categorie/Scheda_Categoria_Platform.png" class="catecons"/> </a>
                 <a href="giochi.php"> <img src="img/categorie/Scheda_Categoria_RPG.png" class="catecons"/> </a>
+
             </article>
 
         

@@ -183,7 +183,7 @@ h1{
             text-transform: uppercase;
         }
         /*FINE SCHEDA PRODOTTO*/
-        /*CATEGORIE e CONSOLE*/
+        /*CATEGORIE ECONSOLE*/
         .catecons{
             margin:20px auto;
             width: 300px;/*larghezza*/
@@ -201,14 +201,8 @@ h1{
             width: 260px;
             height: auto;
             margin: 20px 26px 0 26px;
-}
-        /*FINE CATEGORIE e CONSOLE*/
-        
-        /*STILE SCHEDA*/
-        .scheda{
-            
         }
-        /*FINE STILE SCHEDA*/
+        /*FINE CATEGORIE e CONSOLE*/
 /*FINE CONTENUTI*/
     
     /*BLOG*/
