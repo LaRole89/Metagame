@@ -183,6 +183,26 @@ h1{
             text-transform: uppercase;
         }
         /*FINE SCHEDA PRODOTTO*/
+        /*CATEGORIE e CONSOLE*/
+        .catecons{
+            margin:20px auto;
+            width: 300px;/*larghezza*/
+            height:auto;/*altezza*/
+            text-align: left;
+        }
+        .giochi{
+            width: 250px;
+            height: auto;
+            margin: auto;
+        }
+
+        .containergiochi{
+            display: inline-block;
+            width: 260px;
+            height: auto;
+            margin: 20px 26px 0 26px;
+}
+        /*FINE CATEGORIE e CONSOLE*/
 /*FINE CONTENUTI*/
     
     /*BLOG*/
