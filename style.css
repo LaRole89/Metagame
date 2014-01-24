@@ -27,7 +27,9 @@ root {
     background: #426793;
     text-shadow:none;
 }
-
+#promotion{
+    display:none;
+}
 /*STILE MENU PHONE*/
 .ui-li-static.ui-collapsible > .ui-collapsible-heading {
     margin: 0;
@@ -146,6 +148,7 @@ article a{
 	text-align: center;
 }
 h1{
+    font-size: 25px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
@@ -200,7 +203,7 @@ h1{
             background: white;
             color: #1D313C;
             position: relative;
-            display: inline-block;
+            display: inline-table;
             width: 250px;
             height: 140px;
             border: solid 3px #1D313C;
@@ -227,7 +230,7 @@ h1{
             font-size: 16px;
             text-align: left;
             font-style: oblique;
-            margin: 10px;
+            margin-bottom: 10px;
         }
         .scheda h2{
             text-transform: none;
@@ -344,6 +347,9 @@ IPAD PORTRAIT 768px
 IPAD LANDSCAPE + NETBOOK 1024
 ------------------------------------ */
 @media only screen and (min-width: 1024px){
+    #promotion{
+    display:block;
+    }
     article a{
     color: #002a3f;
     font-style: italic;

@@ -1,17 +1,18 @@
 <?php
+session_start(); //apro la sessione
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+if((!IsSet($_SESSION['IDutente']))&&(@$_GET['login'] == 1))
+{
+    $_SESSION['IDutente'] = 1;
+}
+if(@$_GET['logout'] == 1) //Effettuo il Logout
+{
+	$_SESSION = array(); //Desetto tutte le variabili di sessione
+	
+}
 ?>
 
 <header>
-    <div style="position:absolute; left: 0; top:0; width: 10px; height: 191px; background: white;">
-        
-    </div>
     <div id="menuicon">
         <a href="#menuphone"><img src="img/menu_icon.png"/></a>
     </div>
@@ -65,7 +66,11 @@
         <a href="#searchpage"><img id="iconadesk" src="img/search_icon_min.png" /></a>
     </div>
     <div id="login">
-        <a href="#loginpage" class="ui-btn">LOGIN</a>
+    <?php if(!isset($_SESSION['IDutente'])){ //se nn è stato fatto il login  ?>
+        <a href="login.php" class="ui-btn">LOGIN</a>
+    <?php } else { ?>
+        <a href="?logout=1" class="ui-btn">LOGOUT</a>
+    <?php } ?>
     </div>
     
 </header>

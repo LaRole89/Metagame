@@ -18,38 +18,52 @@
         include 'header.php';
         ?>
 
-        <div id="conteinerBlog">
-
-            <div id="SchedaBlogger"><!--scheda blogger-->
-                <div style="float:left";><a href="BlogDiego.php"><img src="img/Blog/Diego.jpg" id="imgblogger"></a></div>
-                <div id="datiblogger">
-                    età: 24<br>
-                    gioco preferito: League of Legends<br>
-                    ruolo: mid<br><br>
+        <article><!--div grande-->
+            <p id="path"> Home > Blog > Blog di Demon</p>
+            <div id="conteinerCenter">
+                <h1>
+                I nostri Blogger
+                </h1>
+                <div class="scheda">
+                    <div id="schedaimg"><a href="#"><img src="img/Blog/Diego.jpg" /></a></div>
+                    <div id="schedadati">
+                        <h1>Demon Ray</h1>
+                        <h2>Età:</h2> 25<br/>
+                        <h2>Game:</h2> ALL<br/>
+                        <h2>Ruolo:</h2> OP
+                    </div>
+                    <div id="hotlink"><a href="#">blog in evidenza Diego</a></div>
                 </div>
-                Numero Follower: 273
-            </div>
-
-            <br><br>
-
-            <a href="BlogEvidenzaDiego.php"><b>Tutti possono arrivare in Diamond</b></a><br>
-            Tutti possono arrivare a Diamond, no excuse, ecco i miei personali consigli su come
-            <a href="BlogEvidenzaDiego.php">...</a>
-
-            <br><br>
-
-            <a href="*"><b>Season 4 è ufficialmente aperta!!!</b></a><br>
-            Da oggi, 20 gennaio, è iniziata la nuova season, tra i cambiamenti abbiamo
-            <a href="*">...</a>
-
-            <br><br>
-
-            <a href="*"><b>Come Carriare in LOL </b></a><br>
-            "Carriare", questo sconosciuto
-            <a href="*">...</a>
-
-        </div>   
-        
+                <div class="scheda">                    
+                    <div id="schedadati">
+                        <h1>TAG</h1>
+                    </div>
+                    <div id="hotlink"><a href="#">tagcloud</a></div>
+                </div>
+                <br/>
+                <div class="scheda">
+                    <div id="schedadati">
+                        <h1>Tutti possono arrivare in Diamond</h1>
+                        Tutti possono arrivare a Diamond, no excuse...<br/>
+                    </div>
+                    <div id="hotlink"><a href="#">vai all'articolo</a></div>
+                </div>
+                <div class="scheda">
+                    <div id="schedadati">
+                        <h1>Come Carriare in LOL</h1>
+                        "Carriare", questo sconosciuto...<br/>
+                    </div>
+                    <div id="hotlink"><a href="#">vai all'articolo</a></div>
+                </div>   
+                <div class="scheda">
+                    <div id="schedadati">
+                        <h1>Season 4 è ufficialmente aperta!!!</h1>
+                        Da oggi, 20 gennaio, è iniziata la nuova season...<br/>
+                    </div>
+                    <div id="hotlink"><a href="#">vai all'articolo</a></div>
+                </div>
+            </div>   
+        </article>
         <?php
         include 'footer.php';
         ?>    
