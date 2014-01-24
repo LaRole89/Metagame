@@ -4,7 +4,6 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!--css -->
         <link rel="stylesheet" href="style.css" type="text/css" />
-        <link rel="stylesheet" href="stylemio.css" type="text/css" />
         <!-- jquery e jquery mobile -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/latest/jquery.js"></script>
@@ -23,30 +22,12 @@
                 <h1>
                 Giochi
                 </h1>
-                <div class="containergiochi">
+                <div class="scheda">
                     <a href="schedaprodotto.php"> <img src="img/giochi/AC4.jpg" class="giochi"/> </a>
                     <p>60 euro</p>
+                    
                 </div>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/Thief.jpg" class="giochi"/> </a>
-                    <p>45 euro</p>
-                </div>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/Killzone.jpg" class="giochi"/> </a>
-                    <p>70 euro</p>
-                </div>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/AC4.jpg" class="giochi"/> </a>
-                    <p>60 euro</p>
-                </div>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/Thief.jpg" class="giochi"/> </a>
-                    <p>45 euro</p>
-                </div>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/Killzone.jpg" class="giochi"/> </a>
-                    <p>70 euro</p>
-                </div>
+                
             </article>
         
         <?php
