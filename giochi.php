@@ -4,6 +4,10 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!--css -->
         <link rel="stylesheet" href="style.css" type="text/css" />
+<<<<<<< HEAD
+=======
+        <link rel="stylesheet" href="stylemio.css" type="text/css" />
+>>>>>>> master/master
         <!-- jquery e jquery mobile -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/latest/jquery.js"></script>
