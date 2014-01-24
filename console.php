@@ -46,10 +46,7 @@
                 <a href="giochi.php"> <img src="img/console/Scheda_Console_ps4.png" class="catecons"/> </a>
                 <a href="giochi.php"> <img src="img/console/Scheda_Console_Xbox.png" class="catecons"/> </a>
                 <a href="giochi.php"> <img src="img/console/Scheda_Console_Wii.png" class="catecons"/> </a>
->>>>>>> master/master
-                <a href="giochi.php"> <img src="img/console/Scheda_Console_ps4.png" class="catecons"/> </a>
-                <a href="giochi.php"> <img src="img/console/Scheda_Console_Xbox.png" class="catecons"/> </a>
-                <a href="giochi.php"> <img src="img/console/Scheda_Console_Wii.png" class="catecons"/> </a>
+
             </article>
         
         <?php

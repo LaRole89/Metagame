@@ -50,10 +50,7 @@
                 <a href="giochi.php"> <img src="img/categorie/Scheda_Categoria_Adventure.png" class="catecons"/> </a>
                 <a href="giochi.php"> <img src="img/categorie/Scheda_Categoria_Platform.png" class="catecons"/> </a>
                 <a href="giochi.php"> <img src="img/categorie/Scheda_Categoria_RPG.png" class="catecons"/> </a>
-                <a href="giochi.php"> <img src="img/categorie/Scheda_Categoria_Adventure.png" class="catecons"/> </a>
-                <a href="giochi.php"> <img src="img/categorie/Scheda_Categoria_Platform.png" class="catecons"/> </a>
-                <a href="giochi.php"> <img src="img/categorie/Scheda_Categoria_RPG.png" class="catecons"/> </a>
->>>>>>> master/master
+
             </article>
 
         

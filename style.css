@@ -184,6 +184,12 @@ h1{
         }
         /*FINE SCHEDA PRODOTTO*/
         /*CONSOLE E CATEGORIE*/
+        .catecons{
+            margin:20px auto;
+            width: 300px;/*larghezza*/
+            height:auto;/*altezza*/
+            text-align: left;
+        }
         /*FINE CONSOLE E CATEGORIE*/
 /*FINE CONTENUTI*/
     
