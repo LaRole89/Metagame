@@ -7,7 +7,7 @@
 */
 /*reset default */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, table, legend, caption, tbody, tfoot, thead, th{
-    margin:0;padding:0;border:0;outline:0; ont-size:100%;vertical-align:baseline;background: transparent;
+    margin:0;padding:0;border:0;outline:0; font-size:100%;vertical-align:baseline;background: transparent;
 }
 body { line-height: 1; }
 blockquote, q { quotes: none; }
@@ -141,6 +141,10 @@ article a{
     font-style: italic;
     text-decoration: underline;
 }
+#conteinerCenter{
+	overflow:auto;
+	text-align: center;
+}
 h1{
     margin-left: auto;
     margin-right: auto;
@@ -191,21 +195,76 @@ h1{
             text-align: left;
         }
         /*FINE CONSOLE E CATEGORIE*/
+        /*SCHEDE*/
+        .scheda{
+            background: white;
+            color: #1D313C;
+            position: relative;
+            display: inline-block;
+            width: 250px;
+            height: 140px;
+            border: solid 3px #1D313C;
+            font-size: 14px;
+            margin: 20px auto;
+        }
+        .scheda #schedaimg{
+            width: 85px;
+            height: 85px;
+            margin: 10px;
+            float: left;
+            text-align: center;
+        }
+        .scheda #schedaimg img{
+            max-width: 85px;
+            max-height: 85px;
+        }
+        .scheda #schedadati{
+            margin: 10px;
+            text-align: left;
+        }
+        .scheda h1{
+            width: 100%;
+            font-size: 16px;
+            text-align: left;
+            font-style: oblique;
+            margin: 10px;
+        }
+        .scheda h2{
+            text-transform: none;
+            width: 100%;
+            font-size: 14px;
+            text-align: left;
+            display: inline;
+        }
+        .scheda #hotlink{
+            text-align: center;
+            position: absolute;
+            height: 30px;
+            width: 100%;
+            background: #1D313C;
+            bottom: 0;
+            vertical-align: central;
+        }
+        .scheda #hotlink a{
+            margin-top:8px;
+            display: block;
+            text-decoration: none; 
+            font-style: normal;
+            text-transform: uppercase;
+            font-size: 15px;
+            color: white;
+            vertical-align: central;
+        }
+        /*FINE SCHEDE*/
 /*FINE CONTENUTI*/
     
-    /*BLOG*/
-#conteinerBlogger{
-	overflow:auto;
-	text-align: center;
-}
-#conteinerBlog{
-	margin: 50px;
-}
-#SchedaBlogger{
+
+
+/*#SchedaBlogger{
 	display: inline-block;
 	margin:20px auto;
-	width: 350px;/*larghezza*/
-	height:110px;/*altezza*/
+	width: 350px;
+	height:110px;
 	text-align: left;
 	background: yellow;
 }
@@ -215,7 +274,7 @@ h1{
 }
 #datiblogger{
 	margin-left: 85px;
-}
+}*/
 /*FINE BLOG*/
 
 /* == Media queries (breakpoint) ===== */

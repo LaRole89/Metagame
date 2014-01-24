@@ -20,68 +20,81 @@
         ?>
 
 
-        <div id="conteinerBlogger"><!--div grande-->
-            <div id="SchedaBlogger"><!--scheda blogger-->
-                <div style="float:left";><a href="BlogDiego.php"><img src="img/Blog/Diego.jpg" id="imgblogger"></a></div>
-                <div id="datiblogger">
-                    età: 24<br>
-                    gioco preferito: League of Legends<br>
-                    ruolo: mid<br><br>
+        <article><!--div grande-->
+            <p id="path"> Home > Blog </p>
+            <div id="conteinerCenter">
+                <h1>
+                I nostri Blogger
+                </h1>
+            <!--schede BLOGGHER-->
+                <div class="scheda">
+                    <div id="schedaimg"><a href="#"><img src="img/Blog/Diego.jpg" /></a></div>
+                    <div id="schedadati">
+                        <h1>Demon Ray</h1>
+                        <h2>Età:</h2> 25<br/>
+                        <h2>Game:</h2> ALL<br/>
+                        <h2>Ruolo:</h2> OP
+                    </div>
+                    <div id="hotlink"><a href="#">blog in evidenza Diego</a></div>
                 </div>
-                <a href="BlogEvidenzaDiego.php">Tutti possono arrivare in Diamond</a>
-            </div>
+            
+                <div class="scheda">
+                    <div id="schedaimg"><a href="#"><img src="img/Blog/Gabry.jpg" /></a></div>
+                    <div id="schedadati">
+                        <h1>Gabo92</h1>
+                        <h2>Età:</h2>21<br/>
+                        <h2>Game:</h2> COD4<br/>
+                        <h2>Ruolo:</h2>feeder
+                    </div>
+                    <div id="hotlink"><a href="#">blog in evidenza Gabry</a></div>
+                </div>
                 
-            <div id="SchedaBlogger"><!--scheda blogger-->
-                <div style="float:left";><a href="*"><img src="img/Blog/Gabry.jpg" id="imgblogger"></a></div>
-                <div id="datiblogger">
-                    età: 21<br>
-                    gioco preferito: League of Legends<br>
-                    ruolo: feeder<br><br>
+                <div class="scheda">
+                    <div id="schedaimg"><a href="#"><img src="img/Blog/Lore.jpg" /></a></div>
+                    <div id="schedadati">
+                        <h1>Butan</h1>
+                        <h2>Età:</h2>23<br/>
+                        <h2>Game:</h2> Space3<br/>
+                        <h2>Ruolo:</h2>unknown
+                    </div>
+                    <div id="hotlink"><a href="#">blog in evidenza Lore</a></div>
                 </div>
-                <a href="*">blog in evidenza Gabry</a>
-            </div>
 
-            <div id="SchedaBlogger"><!--scheda blogger-->
-                <div style="float:left";><a href="*"><img src="img/Blog/Lore.jpg" id="imgblogger"></a></div>
-                <div id="datiblogger">
-                    età: 23<br>
-                    gioco preferito: League of Legends<br>
-                    ruolo: unknown<br><br>
+              <div class="scheda">
+                    <div id="schedaimg"><a href="#"><img src="img/Blog/Bird.jpg" /></a></div>
+                    <div id="schedadati">
+                        <h1>Bird</h1>
+                        <h2>Età:</h2>23<br/>
+                        <h2>Game:</h2> Dota 2<br/>
+                        <h2>Ruolo:</h2>unknown
+                    </div>
+                    <div id="hotlink"><a href="#">blog in evidenza Bird</a></div>
                 </div>
-                <a href="*">blog in evidenza Lore</a>
-            </div>
 
-            <div id="SchedaBlogger"><!--scheda blogger-->
-                <div style="float:left";><a href="*"><img src="img/Blog/Bird.jpg" id="imgblogger"></a></div>
-                <div id="datiblogger">
-                    età: 23<br>
-                    gioco preferito: Dota 2<br>
-                    ruolo: unknown<br><br>
+               <div class="scheda">
+                    <div id="schedaimg"><a href="#"><img src="img/Blog/Deb.jpg" /></a></div>
+                    <div id="schedadati">
+                        <h1>DEB Basta!</h1>
+                        <h2>Età:</h2>21<br/>
+                        <h2>Game:</h2>Rompere<br/>
+                        <h2>Ruolo:</h2>stress tester
+                    </div>
+                    <div id="hotlink"><a href="#">blog in evidenza Deb</a></div>
                 </div>
-                <a href="*">blog in evidenza Bird</a>
-            </div>
 
-            <div id="SchedaBlogger"><!--scheda blogger-->
-                <div style="float:left";><a href="*"><img src="img/Blog/Deb.jpg" id="imgblogger"></a></div>
-                <div id="datiblogger">
-                    età: 21<br>
-                    gioco preferito: Rompere<br>
-                    ruolo: stress tester<br><br>
-                </div>
-                <a href="*">blog in evidenza Deb</a>
+              <div class="scheda">
+                    <div id="schedaimg"><a href="#"><img src="img/Blog/Mat.jpg" /></a></div>
+                    <div id="schedadati">
+                        <h1>Agareth</h1>
+                        <h2>Età:</h2>23<br/>
+                        <h2>Game:</h2>LOL<br/>
+                        <h2>Ruolo:</h2>Support
+                    </div>
+                    <div id="hotlink"><a href="#">blog in evidenza Matt</a></div>
+              </div>
+            
             </div>
-
-            <div id="SchedaBlogger"><!--scheda blogger-->
-                <div style="float:left";><a href="*"><img src="img/Blog/Mat.jpg" id="imgblogger"></a></div>
-                <div id="datiblogger">
-                    età: 23<br>
-                    gioco preferito: League of Legends<br>
-                    ruolo: Support<br><br>
-                </div>
-                <a href="*">blog in evidenza Mat</a>
-            </div>
-        
-        </div>
+        </article>
 
 
         <?php

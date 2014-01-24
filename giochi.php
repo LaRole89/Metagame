@@ -4,10 +4,6 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!--css -->
         <link rel="stylesheet" href="style.css" type="text/css" />
-<<<<<<< HEAD
-=======
-        <link rel="stylesheet" href="stylemio.css" type="text/css" />
->>>>>>> master/master
         <!-- jquery e jquery mobile -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/latest/jquery.js"></script>
@@ -23,32 +19,42 @@
         ?>
             <article>
                 <p id="path"> Home > Shop > Categorie > Giochi </p>
-                <h1>
-                Giochi
-                </h1>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/AC4.jpg" class="giochi"/> </a>
-                    <p>60 euro</p>
-                </div>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/Thief.jpg" class="giochi"/> </a>
-                    <p>45 euro</p>
-                </div>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/Killzone.jpg" class="giochi"/> </a>
-                    <p>70 euro</p>
-                </div>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/AC4.jpg" class="giochi"/> </a>
-                    <p>60 euro</p>
-                </div>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/Thief.jpg" class="giochi"/> </a>
-                    <p>45 euro</p>
-                </div>
-                <div class="containergiochi">
-                    <a href="schedaprodotto.php"> <img src="img/giochi/Killzone.jpg" class="giochi"/> </a>
-                    <p>70 euro</p>
+                <div id="conteinerCenter">
+                    <h1>
+                    Giochi
+                    </h1>
+                    <div class="scheda">
+                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedadati">
+                            <h1>60 euro</h1>
+                            <h2>60 euro:</h2>60 euro<br/>
+                            <h2>60 euro:</h2>60 euro<br/>
+                            <h2>60 euro:</h2>60 euro
+                        </div>
+                        <div id="hotlink"><a href="#">testo link</a></div>
+                    </div>
+                    
+                    <div class="scheda">
+                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedadati">
+                            <h1>60 euro</h1>
+                            <h2>60 euro:</h2>60 euro<br/>
+                            <h2>60 euro:</h2>60 euro<br/>
+                            <h2>60 euro:</h2>60 euro
+                        </div>
+                        <div id="hotlink"><a href="#">testo link</a></div>
+                    </div>
+                    
+                    <div class="scheda">
+                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedadati">
+                            <h1>60 euro</h1>
+                            <h2>60 euro:</h2>60 euro<br/>
+                            <h2>60 euro:</h2>60 euro<br/>
+                            <h2>60 euro:</h2>60 euro
+                        </div>
+                        <div id="hotlink"><a href="#">testo link</a></div>
+                    </div>
                 </div>
             </article>
         
