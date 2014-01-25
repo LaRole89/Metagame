@@ -21,7 +21,7 @@ a {  text-decoration: none;}
 /*fine reset default */
 
 root { 
-    display: block; 
+    display: block;
 }
 #first_page{
     background: #426793;
@@ -185,9 +185,9 @@ h1{
             height: auto;
         }
         h2{
-           margin-top: 25px;
-             margin-bottom: 10px;
-            text-transform: uppercase;
+            font-size: 18px;
+            display: inline;
+
         }
         /*FINE SCHEDA PRODOTTO*/
         /*CONSOLE E CATEGORIE*/
@@ -259,6 +259,13 @@ h1{
             vertical-align: central;
         }
         /*FINE SCHEDE*/
+        /*PAGINA UTENTE*/
+        #utente{
+            width: 220px;
+            height: 220px;
+            border: solid 3px #1D313C;
+        }
+        /*FINE PAGINA UTENTE*/
 /*FINE CONTENUTI*/
     
 
@@ -327,7 +334,18 @@ IPAD PORTRAIT 768px
     h1{
         width: 400px;
     }
+        /*PAGINA UTENTE*/
+            #utente{
+                width: 330px;
+                height: 330px;
+            }
 
+            button.ui-btn{
+                width: 250px;
+                height: auto;
+                display: inline-block;
+            }
+        /*FINE PAGINA UTENTE*/
     /*FINE CONTENUTI*/
     /*FOOTER*/
 
@@ -544,6 +562,34 @@ IPAD LANDSCAPE + NETBOOK 1024
             height: auto;
         }
         /*FINE SCHEDA PRODOTTO*/
+        /*PAGINA UTENTE*/
+        #contenitore{
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+                #utente{
+            float: left;
+            width: 385px;
+            height: 385px;
+            margin: 20px 20px 20px 100px;
+        }
+
+        #info{
+            margin-top: 30px;
+        }
+
+        #bottoni{
+            position:relative;
+            top: 25px;
+        }
+        button.ui-btn{
+            width: 250px;
+            height: auto;
+            display: inline-block;
+        }
+        /*FINE PAGINA UTENTE*/
     /*FINE CONTENUTI*/
      
      /*FOOTER*/
