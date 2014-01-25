@@ -3,13 +3,15 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!--css -->
-        <link rel="stylesheet" href="style.css" type="text/css" />
+      
         <!-- jquery e jquery mobile -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/latest/jquery.js"></script>
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.css" />
         <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
         <script src="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.js"></script>
+
+        <link rel="stylesheet" href="style.css" type="text/css" />
 
         <title>MetaGame: Blog</title>
     </head>
@@ -36,14 +38,14 @@
                 <br/>
             <!--schede BLOGGHER-->
                 <div class="scheda">
-                    <div id="schedaimg"><a href="#"><img src="img/Blog/Diego.jpg" /></a></div>
+                    <div id="schedaimg"><a href="blogDiego.php"><img src="img/Blog/Diego.jpg" /></a></div>
                     <div id="schedadati">
                         <h1>Demon Ray</h1>
                         <h2>Età:</h2> 25<br/>
                         <h2>Game:</h2> ALL<br/>
                         <h2>Ruolo:</h2> OP
                     </div>
-                    <div id="hotlink"><a href="#">blog in evidenza Diego</a></div>
+                    <div id="hotlink"><a href="blogEvidenzaDiego.php">blog in evidenza Diego</a></div>
                 </div>
             
                 <div class="scheda">

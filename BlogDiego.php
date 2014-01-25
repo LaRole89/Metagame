@@ -32,7 +32,7 @@
                         <h2>Game:</h2> ALL<br/>
                         <h2>Ruolo:</h2> OP
                     </div>
-                    <div id="hotlink"><a href="#">blog in evidenza Diego</a></div>
+                    <div id="hotlink"><a href="blogEvidenzaDiego.php">blog in evidenza Diego</a></div>
                 </div>
                 <div class="scheda">                    
                     <div id="schedadati">
@@ -46,7 +46,7 @@
                         <h1>Tutti possono arrivare in Diamond</h1>
                         Tutti possono arrivare a Diamond, no excuse...<br/>
                     </div>
-                    <div id="hotlink"><a href="#">vai all'articolo</a></div>
+                    <div id="hotlink"><a href="blogEvidenzaDiego.php">vai all'articolo</a></div>
                 </div>
                 <div class="scheda">
                     <div id="schedadati">
