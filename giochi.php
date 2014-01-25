@@ -31,7 +31,7 @@
                             <h2>60 euro:</h2>60 euro<br/>
                             <h2>60 euro:</h2>60 euro
                         </div>
-                        <div id="hotlink"><a href="#">testo link</a></div>
+                        <div id="hotlink"><a style="margin-top: 4px;" href="carrello.php"><img src="img/iconacarrello.png" />&nbsp; &nbsp; &nbsp; <img src="img/iconapiu.png" />&nbsp; <img src="img/iconaform.png" /><img src="img/iconameno.png" /></a></div>
                     </div>
                     
                     <div class="scheda">
@@ -42,7 +42,7 @@
                             <h2>60 euro:</h2>60 euro<br/>
                             <h2>60 euro:</h2>60 euro
                         </div>
-                        <div id="hotlink"><a href="#">testo link</a></div>
+                        <div id="hotlink"><a style="margin-top: 4px;" href="carrello.php"><img src="img/iconacarrello.png" />&nbsp; &nbsp; &nbsp; <img src="img/iconapiu.png" />&nbsp; <img src="img/iconaform.png" /><img src="img/iconameno.png" /></a></div>
                     </div>
                     
                     <div class="scheda">
@@ -53,7 +53,7 @@
                             <h2>60 euro:</h2>60 euro<br/>
                             <h2>60 euro:</h2>60 euro
                         </div>
-                        <div id="hotlink"><a href="#">testo link</a></div>
+                        <div id="hotlink"><a style="margin-top: 4px;" href="carrello.php"><img src="img/iconacarrello.png" />&nbsp; &nbsp; &nbsp; <img src="img/iconapiu.png" />&nbsp; <img src="img/iconaform.png" /><img src="img/iconameno.png" /></a></div>
                     </div>
                 </div>
             </article>

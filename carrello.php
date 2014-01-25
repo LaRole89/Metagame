@@ -20,39 +20,38 @@
         ?>
             <article>
                 <p id="path"> Home > Shop > Carrello </p>
-                    <h1>
-                    Carrello
-                    </h1>
-                <div class="car">
-                    <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
-                        <div id="schedadati">
-                            <h1>60 euro</h1>
-                            <h2>60 euro:</h2>60 euro<br/>
-                            <h2>60 euro:</h2>60 euro<br/>
-                            <h2>60 euro:</h2>60 euro
+                <div id="conteinerCenter">
+                        <h1>
+                        Carrello
+                        </h1>
+                    <div class="car">
+                        <div class="scheda">
+                            <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                            <div id="schedadati">
+                                <h1>60 euro</h1>
+                                <h2>60 euro:</h2>60 euro<br/>
+                                <h2>60 euro:</h2>60 euro<br/>
+                                <h2>60 euro:</h2>60 euro
+                            </div>
+                            <div id="hotlink"><a style="margin-top: 4px;" href="#"><img src="img/iconaelimina.png" />&nbsp; &nbsp; &nbsp; <img src="img/iconapiu.png" />&nbsp; <img src="img/iconaform.png" /><img src="img/iconameno.png" /></a></div>
                         </div>
-                        <div id="hotlink"><a href="#">testo link</a></div>
                     </div>
-                </div>
-                <div class="car">
-                    <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
-                        <div id="schedadati">
-                            <h1>60 euro</h1>
-                            <h2>60 euro:</h2>60 euro<br/>
-                            <h2>60 euro:</h2>60 euro<br/>
-                            <h2>60 euro:</h2>60 euro
+                    <div class="car">
+                        <div class="scheda">
+                            <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                            <div id="schedadati">
+                                <h1>60 euro</h1>
+                                <h2>60 euro:</h2>60 euro<br/>
+                                <h2>60 euro:</h2>60 euro<br/>
+                                <h2>60 euro:</h2>60 euro
+                            </div>
+                            <div id="hotlink"><a style="margin-top: 4px;" href="#"><img src="img/iconaelimina.png" />&nbsp; &nbsp; &nbsp; <img src="img/iconapiu.png" />&nbsp; <img src="img/iconaform.png" /><img src="img/iconameno.png" /></a></div>
                         </div>
-                        <div id="hotlink"><a href="#">testo link</a></div>
+
                     </div>
-                    <label for="quantita"> Quantità: </label>
-                    <input type="number" value="quantita" min="1" />
+                    <a href="pagamento.php"><button>Conferma ordine</button></a>
                     
-                </div>
-                <button>Conferma ordine</button>
-                    
-                    
+                </div>   
             </article>
         
         <?php
