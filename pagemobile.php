@@ -10,6 +10,12 @@
 <div data-role="page" id="menuphone">
             <ul data-role="listview"  data-inset="true" data-shadow="false">
                 <li data-role="collapsible" data-iconpos="right" data-inset="false">
+                    <h2>HOME</h2>
+                    <ul data-role="listview" data-theme="b">
+                      <li><a href="#">Home</a></li>
+                    </ul>
+                </li>
+                <li data-role="collapsible" data-iconpos="right" data-inset="false">
                     <h2>SHOP</h2>
                     <ul data-role="listview" data-theme="b">
                       <li><a href="#">Categorie</a></li>
@@ -61,7 +67,16 @@
             </ul>
         </div>
         <div data-role="page" id="searchpage">
-            search
+        <?php
+        include 'header.php';
+        ?><br/><br/><br/>
+        <label for="search-4" class="ui-hidden-accessible">Search Input:</label>
+        <input type="search" name="search-4" id="search-4" value="">
+        <br/><br/><br/>
+        <a href="search.php" class="ui-btn">SEARCH</a><br/><br/><br/>
+        <?php
+        include 'footer.php';
+        ?>  
         </div>
         <div data-role="page" id="loginpage">
             login
