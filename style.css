@@ -145,7 +145,6 @@ article a{
     text-decoration: underline;
 }
 #conteinerCenter{
-	overflow:auto;
 	text-align: center;
 }
 h1{
@@ -324,26 +323,37 @@ h1{
             top: 9px;
         }
         /*FINE SONDAGGIO*/
+        /*BLOG*/
+        .schedaArticolo{
+            background: white;
+            color: #1D313C;
+            border: solid 3px #1D313C;
+            font-size: 14px;
+            margin: auto;
+        }
+        .schedaArticolo #titolo{
+            color:white; 
+            background:#1D313C;
+        }
+
+        .schedaArticolo #articolo{
+            margin:10px;
+        }
+
+        .schedaArticolo #testoArticolo{
+            text-align: left;
+        }
+
+        .schedaArticolo #testo{
+            font-size: 14px;
+        }
+        /*FINE BLOG*/
 /*FINE CONTENUTI*/
     
 
 
-/*#SchedaBlogger{
-	display: inline-block;
-	margin:20px auto;
-	width: 350px;
-	height:110px;
-	text-align: left;
-	background: yellow;
-}
-#imgblogger{
-	height:75px;
-	width:75px;
-}
-#datiblogger{
-	margin-left: 85px;
-}*/
-/*FINE BLOG*/
+
+
 
 /* == Media queries (breakpoint) ===== */
  
