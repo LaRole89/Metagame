@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ERROR);
 session_start(); //apro la sessione
 
 if((!IsSet($_SESSION['IDutente']))&&(@$_GET['login'] == 1))

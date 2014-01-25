@@ -26,6 +26,14 @@
                 <h1>
                 I nostri Blogger
                 </h1>
+                
+                <div class="scheda">                    
+                    <div id="schedadati">
+                        <h1>TAG</h1>
+                    </div>
+                    <div id="hotlink"><a href="#">tag-cloud</a></div>
+                </div>
+                <br/>
             <!--schede BLOGGHER-->
                 <div class="scheda">
                     <div id="schedaimg"><a href="#"><img src="img/Blog/Diego.jpg" /></a></div>

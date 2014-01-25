@@ -38,7 +38,7 @@
                     <div id="schedadati">
                         <h1>TAG</h1>
                     </div>
-                    <div id="hotlink"><a href="#">tagcloud</a></div>
+                    <div id="hotlink"><a href="#">tag-cloud</a></div>
                 </div>
                 <br/>
                 <div class="scheda">
