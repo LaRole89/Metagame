@@ -34,8 +34,8 @@
                         <h2>Città:</h2> Mestre <br /><br />
                         <h2>CAP:</h2> 30173 <br />
                         <div id="bottoni">
-                            <button>Modifica dati</button>
-                            <button>Vai al carrello</button>
+                            <a href="modificautente.php"><button>Modifica dati</button></a>
+                            <a href="carrello.php"><button>Vai al carrello</button></a>
                         </div>
                     </div>
                 </div>

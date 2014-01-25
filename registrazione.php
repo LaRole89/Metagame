@@ -24,19 +24,31 @@
                 <form  action="" autocomplete="on"> 
                     <p> 
                         <label for="username">Il tuo username</label>
-                        <input name="username" class="campotesto" required="required" type="text" placeholder="es: Trundle77" />
+                        <input name="username" required="required" type="text" placeholder="es: Trundle77" />
                     </p>
                     <p>  
                         <label for="email"> Il tuo indirizzo email</label>
-                        <input name="email" class="campotesto" required="required" type="email" placeholder="es: mail@dominio.com"/> 
+                        <input name="email" required="required" type="email" placeholder="es: mail@dominio.com"/> 
                     </p>
                     <p> 
                         <label for="password1">La tua password </label>
-                        <input name="password1" class="campotesto" required="required" type="password" placeholder="es: X8df!90EO"/>
+                        <input name="password1"  required="required" type="password" placeholder="es: X8df!90EO"/>
                     </p>
                     <p> 
                         <label for="password2">Per favore, conferma la tua password </label>
-                        <input name="password2" class="campotesto" required="required" type="password" placeholder="es: X8df!90EO"/>
+                        <input name="password2"  required="required" type="password" placeholder="es: X8df!90EO"/>
+                    </p>
+                    <p> 
+                        <label for="indirizzo">Il tuo indirizzo (per le spedizioni)</label>
+                        <input name="indirizzo"  required="required" type="text" placeholder="es: via Roma 55"/>
+                    </p>
+                    <p> 
+                        <label for="citta">La tua città</label>
+                        <input name="citta" required="required" type="text" placeholder="es: Milano"/>
+                    </p>
+                    <p> 
+                        <label for="cap">Il codice di avviamento postale</label>
+                        <input name="cap" required="required" type="text" placeholder="es: 30173"/>
                     </p>
                     <p class="bottone"> 
                         <a href="index.php?login=1" class="ui-btn">Conferma</a> 
