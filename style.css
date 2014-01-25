@@ -317,6 +317,13 @@ h1{
             width:75px;
         }
         /*FINE FORUM*/
+        /*SONDAGGI*/
+        .ui-radio input{
+            position: absolute;
+            left: 100px;
+            top: 9px;
+        }
+        /*FINE SONDAGGIO*/
 /*FINE CONTENUTI*/
     
 
@@ -415,6 +422,13 @@ IPAD PORTRAIT 768px
                 width:150px;  
             }
         /*FINE FORUM*/
+        /*SONDAGGI*/
+        .ui-radio input{
+            position: absolute;
+            left: 220px;
+            top: 9px;
+        }
+        /*FINE SONDAGGIO*/
     /*FINE CONTENUTI*/
     /*FOOTER*/
 
@@ -660,6 +674,13 @@ IPAD LANDSCAPE + NETBOOK 1024
             display: inline-block;
         }
         /*FINE PAGINA UTENTE*/
+        /*SONDAGGI*/
+        .ui-radio input{
+            position: absolute;
+            left: 80px;
+            top: 9px;
+        }
+        /*FINE SONDAGGIO*/
     /*FINE CONTENUTI*/
      
      /*FOOTER*/
