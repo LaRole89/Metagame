@@ -129,6 +129,7 @@ footer a{
     
 /*CONTENUTI*/
 article{
+    padding-top: 25px;
     margin-left: auto;
     margin-right: auto;
     width: 440px;
@@ -266,6 +267,56 @@ h1{
             border: solid 3px #1D313C;
         }
         /*FINE PAGINA UTENTE*/
+        /*FORUM*/
+        #MainTopic{
+            background: #002a3f; 
+            color:white;
+            text-shadow:#000 0px 1px 1px;
+        }
+
+        #imageTopic{
+            width: 100px;
+            height: 100px;
+        }
+
+        #infoTopic{
+            visibility: collapse;
+        }
+
+        #infoTopicMobile{
+            visibility: visible;
+            width:auto;
+            height:auto;
+        }
+
+        #schedaUtenteForum{
+            float:left;
+            visibility: collapse;
+            width:0px;
+            height:0px;
+            width: auto + 20px;
+        }
+
+        #datiUtente{
+            font-size: 14px;
+        }
+
+        #bottoneForum{
+            float:right;
+            max-height:20px;
+            width: 110px; 
+            margin-bottom: 35px; 
+        }
+
+        #bottoneNuovoForum{
+            background: white;
+            color:#002a3f; 
+        }
+        #imgblogger{
+            height:75px;
+            width:75px;
+        }
+        /*FINE FORUM*/
 /*FINE CONTENUTI*/
     
 
@@ -346,6 +397,24 @@ IPAD PORTRAIT 768px
                 display: inline-block;
             }
         /*FINE PAGINA UTENTE*/
+        /*FORUM*/
+            #infoTopic{
+            visibility: visible;
+            }
+
+            #infoTopicMobile{
+                visibility: collapse;
+                width:0px;
+                height:0px;
+            }
+
+            #schedaUtenteForum{
+                float:left;
+                visibility: visible;
+                height:auto;
+                width:150px;  
+            }
+        /*FINE FORUM*/
     /*FINE CONTENUTI*/
     /*FOOTER*/
 
@@ -516,6 +585,7 @@ IPAD LANDSCAPE + NETBOOK 1024
      /*FINE HEADER*/
     /*CONTENUTI*/
     article{
+        padding-top: 10px;
         width: 960px;
         text-align: left;
         font-size: 12pt;
