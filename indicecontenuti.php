@@ -68,7 +68,11 @@
 
                             <li> <a href="categorie.php"> Diventa Blogger </a> </li>
                             <li> <a href="console.php"> Diventa Rivenditore </a> </li>
+                            
+                    <li data-role="list-divider"> Area Riservata </li>
 
+                            <li> <a href="categorie.php"> Profilo </a> </li>
+                            <li> <a href="console.php"> Carrello </a> </li>
                 </ul>
 
 
