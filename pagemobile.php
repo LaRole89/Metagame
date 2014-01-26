@@ -12,56 +12,56 @@
                 <li data-role="collapsible" data-iconpos="right" data-inset="false">
                     <h2>HOME</h2>
                     <ul data-role="listview" data-theme="b">
-                      <li><a href="#">Home</a></li>
+                      <li><a href="index.php">Home</a></li>
                     </ul>
                 </li>
                 <li data-role="collapsible" data-iconpos="right" data-inset="false">
                     <h2>SHOP</h2>
                     <ul data-role="listview" data-theme="b">
-                      <li><a href="#">Categorie</a></li>
-                      <li><a href="#">Console</a></li>                      
+                      <li><a href="categorie.php">Categorie</a></li>
+                      <li><a href="console.php">Console</a></li>                      
                     </ul>
                 </li>
                 <li data-role="collapsible" data-iconpos="right" data-inset="false">
                     <h2>OFFERTE</h2>
                     <ul data-role="listview" data-theme="b">
-                      <li><a href="#">Le nostre offerte</a></li>
-                      <li><a href="#">Offerta del giorno</a></li>                                            
+                      <li><a href="lenostreofferte.php">Le nostre offerte</a></li>
+                      <li><a href="offertadelgiorno.php">Offerta del giorno</a></li>                                            
                     </ul>
                 </li>
                 <li data-role="collapsible" data-iconpos="right" data-inset="false">
                     <h2>NEWS</h2>
                     <ul data-role="listview" data-theme="b">
-                      <li><a href="#">News Giochi</a></li>
-                      <li><a href="#">News Staff</a></li>
-                      <li><a href="#">Prossime Uscite</a></li>    
+                      <li><a href="newsgiochi.php">News Giochi</a></li>
+                      <li><a href="newsstaff.php">News Staff</a></li>
+                      <li><a href="prossimeuscite.php">Prossime Uscite</a></li>    
                     </ul>
                 </li>
                 <li data-role="collapsible" data-iconpos="right" data-inset="false">
                     <h2>NOW</h2>
                     <ul data-role="listview" data-theme="b">
-                      <li><a href="#">Sondaggi</a></li>
-                      <li><a href="#">Interviste</a></li>
-                      <li><a href="#">Recensioni</a></li> 
-                      <li><a href="#">Video Gameplay</a></li> 
+                      <li><a href="sondaggi.php">Sondaggi</a></li>
+                      <li><a href="interviste.php">Interviste</a></li>
+                      <li><a href="recensioni.php">Recensioni</a></li> 
+                      <li><a href="gameplay.php">Video Gameplay</a></li> 
                     </ul>
                 </li>
                 <li data-role="collapsible" data-iconpos="right" data-inset="false">
                     <h2>BLOG</h2>
                     <ul data-role="listview" data-theme="b">
-                      <li><a href="#">Blog</a></li>
+                      <li><a href="blog.php">Blog</a></li>
                     </ul>
                 </li>
                 <li data-role="collapsible" data-iconpos="right" data-inset="false">
                     <h2>FORUM</h2>
                     <ul data-role="listview" data-theme="b">
-                      <li><a href="#">Forum</a></li>
+                      <li><a href="forum.php">Forum</a></li>
                     </ul>
                 </li>
                 <li data-role="collapsible" data-iconpos="right" data-inset="false">
                     <h2>APP STORE</h2>
                     <ul data-role="listview" data-theme="b">
-                      <li><a href="#">App Store</a></li>
+                      <li><a href="https://play.google.com/store?hl=it">App Store</a></li>
                     </ul>
                 </li>
             </ul>
