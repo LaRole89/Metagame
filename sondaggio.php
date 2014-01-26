@@ -22,7 +22,7 @@
                 <p id="path"> Home > Now > Sondaggi > Sondaggio</p>
                 <div id="conteinerCenter">
                     <h1>
-                        Sondaggio
+                        Sondaggio Personaggi
                     </h1>
                     <form action="" class="sondaggio">
                         <fieldset>

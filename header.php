@@ -24,36 +24,36 @@ if(@$_GET['logout'] == 1) //Effettuo il Logout
     
     <nav id="navprincipale">
         <ul id="menu">
-            <li><a href="#">HOME</a></li>
-            <li><a href="#">SHOP</a>
+            <li><a href="index.php">HOME</a></li>
+            <li><a href="giochi.php">SHOP</a>
                 <ul>
-                    <li><a href="#">Categorie</a></li>
-                    <li><a href="#">Console</a></li>
+                    <li><a href="categorie.php">Categorie</a></li>
+                    <li><a href="console.php">Console</a></li>
                 </ul>
             </li>
-            <li><a href="#">OFFERTE</a>
+            <li><a href="offerte.php">OFFERTE</a>
                     <ul>
                       <li><a href="#">Le nostre offerte</a></li>
                       <li><a href="#">Offerta del giorno</a></li>                                            
                     </ul>
             </li>
-            <li><a href="#">NEWS</a>
+            <li><a href="news.php">NEWS</a>
                     <ul>
-                      <li><a href="#">News Giochi</a></li>
-                      <li><a href="#">News Staff</a></li>
-                      <li><a href="#">Prossime Uscite</a></li>    
+                      <li><a href="newsgiochi.php">News Giochi</a></li>
+                      <li><a href="newsstaff.php">News Staff</a></li>
+                      <li><a href="prossimeuscite.php">Prossime Uscite</a></li>    
                     </ul>
             </li>
-            <li><a href="#">NOW</a>
+            <li><a href="now.php">NOW</a>
                     <ul>
-                      <li><a href="#">Sondaggi</a></li>
-                      <li><a href="#">Interviste</a></li>
-                      <li><a href="#">Recensioni</a></li> 
-                      <li><a href="#">Video Gameplay</a></li> 
+                      <li><a href="sondaggi.php">Sondaggi</a></li>
+                      <li><a href="interviste.php">Interviste</a></li>
+                      <li><a href="recensioni.php">Recensioni</a></li> 
+                      <li><a href="gameplay.php">Video Gameplay</a></li> 
                     </ul>
             </li>
-            <li><a href="#">BLOG</a></li>
-            <li><a href="#">FORUM</a></li>
+            <li><a href="blog.php">BLOG</a></li>
+            <li><a href="forum.php">FORUM</a></li>
             <li><a href="#">APP STORE</a></li>
         </ul>
     </nav>

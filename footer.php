@@ -15,15 +15,15 @@
 			<!--contenitore di un listato -->
 				<div id="footerCol">
 				
-					<a href="#"> Servizi </a>
+					<a href="home.php"> Servizi </a>
 
 					<ul>
-						<li><a href="#"> Shop </a></li>
-						<li><a href="#"> Offerte </a></li>
-						<li><a href="#"> News </a></li>
-						<li><a href="#"> Now </a></li>
-						<li><a href="#"> Blog </a></li>
-						<li><a href="#"> Forum </a></li>
+						<li><a href="giochi.php"> Shop </a></li>
+						<li><a href="offerte.php"> Offerte </a></li>
+						<li><a href="news.php"> News </a></li>
+						<li><a href="now.php"> Now </a></li>
+						<li><a href="blog.php"> Blog </a></li>
+						<li><a href="forum.php"> Forum </a></li>
 						<li><a href="#"> App Store </a></li>
 					</ul>
 					
@@ -31,23 +31,23 @@
 				
 				<div id="footerCol">
 				
-					<a href="#"> Chi Siamo </a>
+					<a href="chisiamo.php"> Chi Siamo </a>
 
 					<ul>
-						<li><a href="#"> Contatti </a></li>
-						<li><a href="#"> Social </a></li>
-						<li><a href="#"> Punti Vendita </a></li>
+						<li><a href="contatti.php"> Contatti </a></li>
+						<li><a href="social.php"> Social </a></li>
+						<li><a href="puntivendita.php"> Punti Vendita </a></li>
 					</ul>
 				
 				</div>
 				
 				<div id="footerCol">
 					
-					<a href="#"> Supporto </a>
+					<a href="supporto.php"> Supporto </a>
 
 					<ul>
 					
-						<li><a href="#"> FAQ </a></li>
+						<li><a href="faq.php"> FAQ </a></li>
 						<li><a href="#"> Mappa del Sito </a></li>
 						<li><a href="#"> Indice dei Contenuti </a></li>
 						
@@ -57,11 +57,11 @@
 				
 				<div id="footerCol">
 				
-					<a href="#"> Lavora con noi </a>
+					<a href="lavoraconnoi.php"> Lavora con noi </a>
 
 					<ul>
-						<li><a href="#"> Diventa Blogger </a></li>
-						<li><a href="#"> Diventa Rivenditore </a></li>
+						<li><a href="diventablogger.php"> Diventa Blogger </a></li>
+						<li><a href="diventarivenditore.php"> Diventa Rivenditore </a></li>
 					</ul>
 					
 				</div>
