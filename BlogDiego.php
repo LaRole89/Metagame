@@ -69,6 +69,17 @@
                     </div>
                     <div id="hotlink"><a href="#">vai all'articolo</a></div>
                 </div>
+
+
+                <div class="scheda">
+                    <div id="schedadati">
+                        <h1>Nuovo Post</h1>
+                        Clicca qui per inserire un nuovo post...<br/>
+                    </div>
+                    <div id="hotlink"><a href="blogNuovoPost.php">nuovo post</a></div>
+                </div>
+
+
             </div>   
         </article>
         <?php

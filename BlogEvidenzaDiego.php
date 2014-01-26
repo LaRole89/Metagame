@@ -75,10 +75,22 @@
                         </div>
                     </div>
 
-
-
                 </div>
-        
+
+                <div class="schedaArticolo">
+                    <div id="titolo"><h2>Rispondi al blog</h2></div>
+                    <div id="articolo">
+                        <div >
+
+                            <textarea cols="40" rows="8" name="textarea2"></textarea>
+                                <div id="bottoneForum">
+                                    <input type="button" value="Rispondi">
+                                </div>
+                            </br></br></br>
+                        </div>
+                    </div>
+                </div>
+                
             </div>   
         </article>
 

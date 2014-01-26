@@ -46,7 +46,7 @@
                     </div>
                     <div id="hotlink"><a href="#">vai all'articolo</a></div>
                 </div>
-                <br/><p style="text-align: left;"> Se sei curioso di saperne di più? <a href="newsstaff.php">clicca qui</a></p><br/>
+
             </div>
             
             

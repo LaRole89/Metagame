@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.css" />
         <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
         <script src="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.js"></script>
-        <title>MetaGame Blog: Scrivi Nuovo Blog</title>
+        <title>MetaGame Blog: Scrivi Nuovo Post</title>
     </head>
     <body>
         <div data-role="page" id="first_page">
@@ -18,13 +18,13 @@
         include 'header.php';
         ?>
         <article><!--div grande-->
-            <p id="path"> Home > Blog > Nuovo Blog</p>
+            <p id="path"> Home > Blog > Blog di demon > Nuovo Post</p>
             <div id="conteinerCenter">
                 <h1>
-                Scrivi un Nuovo Blog
+                Scrivi un Nuovo Post
                 </h1>
                 <div class="schedaArticolo">
-                    <div id="titolo"><h2>Nuovo Blog</h2></div>
+                    <div id="titolo"><h2>Nuovo Post</h2></div>
                     <div id="articolo">
                         <div class="ui-field-contain" >
                             <label for="name">Titolo:</label>
@@ -39,10 +39,10 @@
                             <label for="textarea2">Discussione:</label>
                             <textarea cols="40" rows="8" name="textarea2"></textarea>
                         </div>
-                        
+
                         <div class="ui-field-contain">
-                            <label for="textarea2">TAGS:</label>
-                            <input type="text" name="subtitle" value="" data-clear-btn="true">
+                            <label for="textarea2">Tag:</label>
+                            <textarea cols="40" rows="8" name="textarea2"></textarea>
                         </div>
                         
                         <div >
