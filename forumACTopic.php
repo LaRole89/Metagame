@@ -21,6 +21,7 @@
         include 'header.php';
         ?>
             <article data-role="content">
+                <p id="path"> Home > Forum > Assassin's Creed > AC Liberation HD, Gameplay della Beta</p>
                 <ul data-role="listview" data-inset="true" data-divider-theme="b">
                   <li data-role="list-divider" id="MainTopic">AC Liberation HD, Gameplay della Beta</li>
                     <li>

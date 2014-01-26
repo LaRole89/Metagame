@@ -23,6 +23,7 @@
         include 'header.php';
         ?>
             <article data-role="content">
+                <p id="path"> Home > Forum > Assassin's Creed > Nuovo Topic </p>
               <ul data-role="listview" data-inset="true" data-divider-theme="b">
                 <li data-role="list-divider" id="MainTopic">Nuovo Topic</li>
                 <li>      

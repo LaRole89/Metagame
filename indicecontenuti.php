@@ -31,14 +31,14 @@
 
                     <li data-role="list-divider"> Offerte </li> 
 
-                            <li> <a href="categorie.php"> Le nostre offerte </a> </li>
-                            <li> <a href="console.php"> Offerta del giorno </a> </li>
+                            <li> <a href="lenostreofferte.php"> Le nostre offerte </a> </li>
+                            <li> <a href="offertadelgiorno.php"> Offerta del giorno </a> </li>
 
                     <li data-role="list-divider"> News </li>
 
-                            <li> <a href="categorie.php"> News Giochi </a> </li>
-                            <li> <a href="console.php"> News Staff </a> </li>
-                            <li> <a href="console.php"> Proddime Uscite </a> </li>
+                            <li> <a href="newsgiochi.php"> News Giochi </a> </li>
+                            <li> <a href="newsstaff.php"> News Staff </a> </li>
+                            <li> <a href="prossimeuscire.php"> Prossime Uscite </a> </li>
 
                     <li data-role="list-divider"> Now </li>
 
@@ -55,9 +55,9 @@
                             <li> <a href="#"> App Store </a> </li>
                     <li data-role="list-divider"> Chi Siamo </li>
 
-                            <li> <a href="categorie.php"> Contatti </a> </li>
-                            <li> <a href="console.php"> Social </a> </li>
-                            <li> <a href="console.php"> Punti vendita </a> </li>
+                            <li> <a href="contatti.php"> Contatti </a> </li>
+                            <li> <a href="social.php"> Social </a> </li>
+                            <li> <a href="puntivendita.php"> Punti vendita </a> </li>
 
                     <li data-role="list-divider"> Supporto </li>
                             <li> <a href="faq.php"> F.A.Q. </a> </li>
@@ -66,13 +66,13 @@
 
                     <li data-role="list-divider"> Lavora con noi </li>
 
-                            <li> <a href="categorie.php"> Diventa Blogger </a> </li>
-                            <li> <a href="console.php"> Diventa Rivenditore </a> </li>
+                            <li> <a href="diventablogger.php"> Diventa Blogger </a> </li>
+                            <li> <a href="diventarivenditore.php"> Diventa Rivenditore </a> </li>
                             
                     <li data-role="list-divider"> Area Riservata </li>
 
-                            <li> <a href="categorie.php"> Profilo </a> </li>
-                            <li> <a href="console.php"> Carrello </a> </li>
+                            <li> <a href="utente.php"> Profilo </a> </li>
+                            <li> <a href="carrello.php"> Carrello </a> </li>
                 </ul>
 
 

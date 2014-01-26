@@ -20,6 +20,7 @@
         include 'header.php';
         ?>
             <article data-role="content">
+                <p id="path"> Home > Forum </p>
 
                 <ul data-role="listview" data-inset="true" data-divider-theme="b">
                     <li data-role="list-divider" id="MainTopic">Main Forum</li>
