@@ -539,6 +539,7 @@ IPAD LANDSCAPE + NETBOOK 1024
         width: 170px;
     }
     #login{
+        
         height: 30px;
         position: absolute;
         top: 205px;

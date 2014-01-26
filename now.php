@@ -24,9 +24,9 @@
                     <h1>
                         Now
                     </h1>
-                    <a href="sondaggi.php"><h2>Sondaggi</h2></a> <br />
+                    <h2>Sondaggi</h2> <br />
                     <div class="scheda">
-                        <div id="schedaimg"><a href="sondaggio.php"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Personaggi</h1>
                             <h2>Iniziato da:</h2>Diego<br/>
@@ -37,7 +37,7 @@
                     </div>
                     
                     <div class="scheda">
-                        <div id="schedaimg"><a href="sondaggio.php"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Personaggi</h1>
                             <h2>Iniziato da:</h2>Diego<br/>
@@ -48,7 +48,7 @@
                     </div>
                     
                     <div class="scheda">
-                        <div id="schedaimg"><a href="sondaggio.php"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Personaggi</h1>
                             <h2>Iniziato da:</h2>Diego<br/>
@@ -58,32 +58,34 @@
                         <div id="hotlink"><a href="sondaggio.php">Vai al sondaggio</a></div>
                     </div>
 
-                    <br />
+                    <br/>
+                    <p style="text-align: left;"> Se sei curioso di saperne di più? <a href="sondaggi.php">clicca qui</a></p>
+                    <br/>
 
-                    <a href="interviste.php"><h2>Interviste</h2></a> <br />
+                    <h2>Interviste</h2> <br />
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Assassin's Creed 4: Video Intervista Everyeye Network</h1>
                         </div>
-                        <div id="hotlink"><a href="sondaggio.php">Vai all'intervista</a></div>
+                        <div id="hotlink"><a href="interviste.php">Vai all'intervista</a></div>
                     </div>
                     
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Assassin's Creed 4: Intervista esclusiva ad Ashraf Ismail</h1>
                         </div>
-                        <div id="hotlink"><a href="sondaggio.php">Vai all'intervista</a></div>
+                        <div id="hotlink"><a href="interviste.php">Vai all'intervista</a></div>
                     </div>
                     
+                    <br/>
+                    <p style="text-align: left;"> Se sei curioso di saperne di più? <a href="interviste.php">clicca qui</a></p>
+                    <br/>
 
-
-                    <br />
-
-                    <a href="recensioni.php"><h2>Recensioni</h2></a> <br />
+                    <h2>Recensioni</h2> <br />
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Assassin's Creed 4: Luoghi e attività</h1>
                         </div>
@@ -91,7 +93,7 @@
                     </div>
                     
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Assassin's Creed 4: Demo ufficiale gameplay E3 2013</h1>
                         </div>
@@ -99,18 +101,20 @@
                     </div>
                     
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Assassin's Creed 4: Gameplay</h1>
                         </div>
                         <div id="hotlink"><a href="recensioni.php">Vai alla recensione</a></div>
                     </div>
 
-                    <br />
+                    <br/>
+                    <p style="text-align: left;"> Se sei curioso di saperne di più? <a href="recensioni.php">clicca qui</a></p>
+                    <br/>
 
-                    <a href="gameplay.php"><h2>Video Gameplay</h2></a> <br />
+                    <h2>Video Gameplay</h2> <br />
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Assassin's Creed 4: Luoghi e attività</h1>
                         </div>
@@ -118,7 +122,7 @@
                     </div>
                     
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Assassin's Creed 4: Demo ufficiale gameplay E3 2013</h1>
                         </div>
@@ -126,12 +130,15 @@
                     </div>
                     
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Assassin's Creed 4: Gameplay</h1>
                         </div>
                         <div id="hotlink"><a href="gameplay.php">Vai alla recensione</a></div>
-                    </div> <br />
+                    </div> 
+                    <br/>
+                    <p style="text-align: left;"> Se sei curioso di saperne di più? <a href="gameplay.php">clicca qui</a></p>
+                    <br/>
                 </div>
             </article>
 

@@ -27,24 +27,24 @@
                 </h1>
                 <div class="scheda">
                     <div id="schedadati">
-                        <h1>Thief: annunciata la data d'uscita!</h1>
-                        Square Enix ha annunciato le date ufficiali per il nuovo Thief...<br/>
+                        <h1>Assassin's Creed Liberation: annunciata la data d'uscita!</h1>
+                        Ubisoft ha annunciato le date ..<br/>
                     </div>
-                    <div id="hotlink"><a href="blogEvidenzaDiego.php">vai all'articolo</a></div>
+                    <div id="hotlink"><a href="UscitaAC.php">vai all'articolo</a></div>
                 </div>
                                 <div class="scheda">
                     <div id="schedadati">
                         <h1>Raiden, pronto a scendere sul campo!</h1>
                         SPer tutti gli appassionati di Metal Gear Solid, ecco un ...<br/>
                     </div>
-                    <div id="hotlink"><a href="blogEvidenzaDiego.php">vai all'articolo</a></div>
+                    <div id="hotlink"><a href="#">vai all'articolo</a></div>
                 </div>
                 <div class="scheda">
                     <div id="schedadati">
                         <h1>Ubisoft annuncia Assassin's Creed 5</h1>
                         La confraternita degli assassini ti chiama alle armi...<br/>
                     </div>
-                    <div id="hotlink"><a href="blogEvidenzaDiego.php">vai all'articolo</a></div>
+                    <div id="hotlink"><a href="#">vai all'articolo</a></div>
                 </div>
             </div>
             </article>

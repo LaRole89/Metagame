@@ -29,15 +29,15 @@
                     <div class="scheda">
                         <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
-                            <h1>60 euro</h1>
-                            <h2>60 euro:</h2>60 euro<br/>
-                            <h2>60 euro:</h2>60 euro<br/>
-                            <h2>60 euro:</h2>60 euro
+                            <h1>AC4</h1>
+                            <h2>Prezzo:</h2>60 euro<br/>
+                            <h2>Console:</h2><br/>
+                            <h2>Genere:</h2>
                         </div>
                         <div id="hotlink"><a style="margin-top: 4px;" href="carrello.php"><img src="img/iconacarrello.png" />&nbsp; &nbsp; &nbsp; <img src="img/iconapiu.png" />&nbsp; <img src="img/iconaform.png" /><img src="img/iconameno.png" /></a></div>
                     </div>
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>60 euro</h1>
                             <h2>60 euro:</h2>60 euro<br/>
@@ -47,7 +47,7 @@
                         <div id="hotlink"><a style="margin-top: 4px;" href="carrello.php"><img src="img/iconacarrello.png" />&nbsp; &nbsp; &nbsp; <img src="img/iconapiu.png" />&nbsp; <img src="img/iconaform.png" /><img src="img/iconameno.png" /></a></div>
                     </div>
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>60 euro</h1>
                             <h2>60 euro:</h2>60 euro<br/>
@@ -60,15 +60,15 @@
                      <div class="scheda">
                         <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
-                            <h1>60 euro</h1>
-                            <h2>60 euro:</h2>60 euro<br/>
-                            <h2>60 euro:</h2>60 euro<br/>
-                            <h2>60 euro:</h2>60 euro
+                            <h1>AC4</h1>
+                            <h2>Prezzo:</h2>60 euro<br/>
+                            <h2>Console:</h2><br/>
+                            <h2>Genere:</h2>
                         </div>
                         <div id="hotlink"><a style="margin-top: 4px;" href="carrello.php"><img src="img/iconacarrello.png" />&nbsp; &nbsp; &nbsp; <img src="img/iconapiu.png" />&nbsp; <img src="img/iconaform.png" /><img src="img/iconameno.png" /></a></div>
                     </div>
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>60 euro</h1>
                             <h2>60 euro:</h2>60 euro<br/>
@@ -78,7 +78,7 @@
                         <div id="hotlink"><a style="margin-top: 4px;" href="carrello.php"><img src="img/iconacarrello.png" />&nbsp; &nbsp; &nbsp; <img src="img/iconapiu.png" />&nbsp; <img src="img/iconaform.png" /><img src="img/iconameno.png" /></a></div>
                     </div>
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>60 euro</h1>
                             <h2>60 euro:</h2>60 euro<br/>

@@ -19,7 +19,9 @@
         ?>
         <article>            
             <p id="path"> Home > Utente > Login </p>
+            <div id="conteinerCenter">
                 <h1>Login</h1>
+                
                 <form  action="" autocomplete="on"> 
                     <p> 
                         <label for="username">Il tuo username</label>
@@ -34,7 +36,11 @@
                         <a href="index.php?login=1" class="ui-btn">Login</a> 
                     </p>
                 </form>
-         
+                    <p class="link">  
+                        Non Sei ancora membro?
+                        <a href="registrazione.php"> registrati </a>
+                    </p>
+            </div>
         </article>
 
         

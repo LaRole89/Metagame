@@ -25,7 +25,7 @@
                     Sondaggi
                     </h1>
                     <div class="scheda">
-                        <div id="schedaimg"><a href="sondaggio.php"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Personaggi</h1>
                             <h2>Iniziato da:</h2>Diego<br/>
@@ -36,25 +36,25 @@
                     </div>
                     
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Personaggi</h1>
                             <h2>Iniziato da:</h2>Diego<br/>
                             <h2>Data:</h2>25/3/2013<br/>
                             <h2>Voti:</h2>57
                         </div>
-                        <div id="hotlink"><a href="#">Vai al sondaggio</a></div>
+                        <div id="hotlink"><a href="sondaggio.php">Vai al sondaggio</a></div>
                     </div>
                     
                     <div class="scheda">
-                        <div id="schedaimg"><a href="#"><img src="img/giochi/AC4.jpg" /></a></div>
+                        <div id="schedaimg"><a href="schedaprodotto.php"><img src="img/giochi/AC4.jpg" /></a></div>
                         <div id="schedadati">
                             <h1>Personaggi</h1>
                             <h2>Iniziato da:</h2>Diego<br/>
                             <h2>Data:</h2>25/3/2013<br/>
                             <h2>Voti:</h2>57
                         </div>
-                        <div id="hotlink"><a href="#">Vai al sondaggio</a></div>
+                        <div id="hotlink"><a href="sondaggio.php">Vai al sondaggio</a></div>
                     </div>
                 </div>
             </article>

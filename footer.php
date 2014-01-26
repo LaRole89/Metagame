@@ -15,7 +15,7 @@
 			<!--contenitore di un listato -->
 				<div id="footerCol">
 				
-					<a href="home.php"> Servizi </a>
+					<a href="index.php"> Servizi </a>
 
 					<ul>
 						<li><a href="giochi.php"> Shop </a></li>
@@ -24,7 +24,7 @@
 						<li><a href="now.php"> Now </a></li>
 						<li><a href="blog.php"> Blog </a></li>
 						<li><a href="forum.php"> Forum </a></li>
-						<li><a href="#"> App Store </a></li>
+						<li><a href="https://play.google.com/store?hl=it"> App Store </a></li>
 					</ul>
 					
 				</div>
@@ -43,13 +43,13 @@
 				
 				<div id="footerCol">
 					
-					<a href="supporto.php"> Supporto </a>
+					<a href="#"> Supporto </a>
 
 					<ul>
 					
 						<li><a href="faq.php"> FAQ </a></li>
-						<li><a href="#"> Mappa del Sito </a></li>
-						<li><a href="#"> Indice dei Contenuti </a></li>
+						<li><a href="mappa.php"> Mappa del Sito </a></li>
+						<li><a href="indicecontenuti.php"> Indice dei Contenuti </a></li>
 						
 					</ul>
 					

@@ -42,7 +42,7 @@
                 </div>
                 <div class="scheda">
                     <div id="schedadati">
-                        <h1>Ubisoft annuncia Assassin's Creed 5</h1>
+                        <h1>Nuova DLC per Assassin's Creed 4</h1>
                         La confraternita degli assassini ti chiama alle armi...<br/>
                     </div>
                     <div id="hotlink"><a href="#">vai all'articolo</a></div>

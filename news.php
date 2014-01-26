@@ -42,7 +42,7 @@
                 </div>
                 <div class="scheda">
                     <div id="schedadati">
-                        <h1>Ubisoft annuncia Assassin's Creed 5</h1>
+                        <h1>Nuova DLC per Assassin's Creed 4</h1>
                         La confraternita degli assassini ti chiama alle armi...<br/>
                     </div>
                     <div id="hotlink"><a href="#">vai all'articolo</a></div>
@@ -52,22 +52,22 @@
                 <h2>Le news del nostro Staff</h2><br/>
                  <div class="scheda">
                     <div id="schedadati">
-                        <h1>Thief: annunciata la data d'uscita!</h1>
-                        Square Enix ha annunciato le date ufficiali per il nuovo Thief...<br/>
+                        <h1>Il nostro Staff al Lucca Comics!</h1>
+                        ecco come è andata...<br/>
                     </div>
                     <div id="hotlink"><a href="#">vai all'articolo</a></div>
                 </div>
                 <div class="scheda">
                     <div id="schedadati">
-                        <h1>Raiden, pronto a scendere sul campo!</h1>
-                        SPer tutti gli appassionati di Metal Gear Solid, ecco un ...<br/>
+                        <h1>Il nostro Staff al Lucca Comics!</h1>
+                        ecco come è andata...<br/>
                     </div>
                     <div id="hotlink"><a href="#">vai all'articolo</a></div>
                 </div>
                 <div class="scheda">
                     <div id="schedadati">
-                        <h1>Ubisoft annuncia Assassin's Creed 5</h1>
-                        La confraternita degli assassini ti chiama alle armi...<br/>
+                        <h1>Il nostro Staff al Lucca Comics!</h1>
+                        ecco come è andata...<br/>
                     </div>
                     <div id="hotlink"><a href="#">vai all'articolo</a></div>
                 </div>
