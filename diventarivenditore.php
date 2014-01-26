@@ -18,9 +18,11 @@
         include 'header.php';
         ?>
             <article>
+                <p id="path"> Home > Lavora con Noi > Diventa Rivenditore </p>
                 <h1>Diventa Rivenditore</h1>
                 <p>
                     contattaci <a href="mailto:rivenditori@metagame.it?subject=Voglio diventare Rivenditore"> cliccando qui</a>
+                    <br><br><br>
                 </p>   
             </article>
 

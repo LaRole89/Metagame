@@ -21,6 +21,7 @@
         include 'header.php';
         ?>
             <article>
+                <p id="path"> Home > Chi Siamo > Punti Vendita </p>
                 <div id="conteinerCenter">
                 <h1>Punti Vendita</h1>
                 <p>
@@ -29,6 +30,7 @@
 
                 <div id="infoTopicMobile"><a href="#">ecco il link</a><br></div>
                 <div id="infoTopic"><img src="img/mappa.jpg"></div> 
+                <br><br><br>
                 </div>
             </article>
 

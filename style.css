@@ -347,6 +347,22 @@ h1{
         .schedaArticolo #testo{
             font-size: 14px;
         }
+        #tag1{
+    font-size: 14px;
+        }
+        #tag2{
+            font-size: 16px;
+        }
+        #tag3{
+            font-size: 18px;
+        }
+        #tag4{
+            font-size: 20px;
+        }
+        .scheda #tagcloud{
+                    margin: 10px;
+                    text-align: center;
+        }
         /*FINE BLOG*/
 /*FINE CONTENUTI*/
     

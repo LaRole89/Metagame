@@ -18,19 +18,35 @@
         <?php
         include 'header.php';
         ?>
-        
-            <p>
-			Dopo aver deciso di non tenere alcuna conferenza all’<b>E3 2013</b>, <b>Square Enix</b> ha comunque cominciato a far sentire la sua presenza diffondendo materiale di alcuni giochi molto interessanti:<br> 
-			uno di questi è naturalmente <b>Thief</b>.<br>
+        <article>
+            <p id="path"> Home > News > Prossime Uscite > Thief: Deadly Shadows</p>
+            <div id="conteinerCenter">
+                <h1>
+                Prossime Uscite: Thief, Deadly Shadows
+                </h1>
+                <div class="schedaArticolo">
+                    <div id="titolo"><h2>Thief, Deadly Shadows</h2></div>
+                    <div id="articolo">
+                        Dopo aver deciso di non tenere alcuna conferenza all’<b>E3 2013</b>, <b>Square Enix</b> ha comunque cominciato a far sentire la sua presenza diffondendo materiale di alcuni giochi molto interessanti:<br> 
+                        uno di questi è naturalmente <b>Thief</b>.<br>
 
-			Oggi ha annunciato le date ufficiali per il nuovo <b>Thief</b>.<br><br>
+                        Oggi ha annunciato le date ufficiali per il nuovo <b>Thief</b>.<br><br>
 
-			Thief metterà i giocatori nuovamente nei panni dell’esperto ladro <i>Garret</i>, in un’ambientazione oscura e permeata dal disagio degli abitanti della grande città.<br>
-			Le meccaniche di gioco ricalcheranno da vicino quelle della serie originale, offrendo un controllo in prima persona con lo stealth al centro di tutto.<br><br>
-			Thief uscirà in Europa per PC, PS3, Xbox 360, Xbox One e PlayStation 4 il <u>28 febbraio 2014</u> ( e il 25 febbraio in Nord America).<br><br>
-			</p>
+                        Thief metterà i giocatori nuovamente nei panni dell’esperto ladro <i>Garret</i>, in un’ambientazione oscura e permeata dal disagio degli abitanti della grande città.<br>
+                        Le meccaniche di gioco ricalcheranno da vicino quelle della serie originale, offrendo un controllo in prima persona con lo stealth al centro di tutto.<br><br>
+                        Thief uscirà in Europa per PC, PS3, Xbox 360, Xbox One e PlayStation 4 il <u>28 febbraio 2014</u> ( e il 25 febbraio in Nord America).<br><br>
+                    
+                        <video controls class="video">
+                            <source src="video/thief.mp4" type="video/mp4"/>
+                            Il tuo browser non supporta i video in HTML5
+                        </video>
+
+                    </div>
+
+                </div>
         
-			<iframe width="420" height="315" src="//www.youtube.com/embed/vPzd8UcGs6E?rel=0" frameborder="0" allowfullscreen></iframe>
+            </div>   
+        </article>
 
         <?php
         include 'footer.php';

@@ -4,6 +4,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!--css -->
         <link rel="stylesheet" href="style.css" type="text/css" />
+        <link rel="stylesheet" href="newstyle.css" type="text/css" />
+
         <!-- jquery e jquery mobile -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/latest/jquery.js"></script>
@@ -35,8 +37,13 @@
                     <div id="hotlink"><a href="blogEvidenzaDiego.php">blog in evidenza Diego</a></div>
                 </div>
                 <div class="scheda">                    
-                    <div id="schedadati">
-                        <h1>TAG</h1>
+                    <div id="tagcloud">
+                        <a href="#" id="tag1">Carriare</a>
+                        <a href="#" id="tag1">Diamond</a>
+                        <a href="TagJungle.php" id="tag2">Jungle</a>
+                        <a href="#" id="tag3">League of Legends</a>
+                        <a href="#" id="tag3">LOL</a>
+                        <a href="#" id="tag1">Season 4</a>
                     </div>
                     <div id="hotlink"><a href="#">tag-cloud</a></div>
                 </div>

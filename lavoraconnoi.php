@@ -18,10 +18,12 @@
         include 'header.php';
         ?>
             <article>
+                <p id="path"> Home > Lavora con Noi  </p>
                 <h1>Lavora con Noi</h1>
                 <p>
                     Vuoi diventare uno dei nostri blogger, allora <a href="diventablogger.php"> clicca qui</a><br>
                     Vuoi diventare uno dei nostri rivenditori autorizati, allora <a href="diventarivenditore.php"> clicca qui</a>
+                    <br><br><br>
                 </p>   
             </article>
 

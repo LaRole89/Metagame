@@ -18,9 +18,11 @@
         include 'header.php';
         ?>
             <article>
+                <p id="path"> Home > Lavora con Noi > Diventa Blogger </p>
                 <h1>Diventa Blogger</h1>
                 <p>
                     contattaci <a href="mailto:blog@metagame.it?subject=Voglio diventare Blogger"> cliccando qui</a>
+                    <br><br><br>
                 </p>   
             </article>
 

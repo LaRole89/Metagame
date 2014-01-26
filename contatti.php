@@ -17,13 +17,14 @@
         <?php
         include 'header.php';
         ?>
-            <article data-role="content">
+            <article >
+                <p id="path"> Home > Chi Siamo > Contatti </p>
                 <h1>Contatti</h1>
                 <p>
                     Hai problemi? Contatta il servizio clienti <a href="mailto:clientservice@metagame.it"> cliccando qui</a><br>
                     Se hai idee o novità da proporci, contattaci <a href="mailto:ideapoint@metagame.it"> cliccando qui</a><br><br>
                     Contatta i rivenditori <a href="mailto:rivenditori@metagame.it"> cliccando qui</a><br>
-                    Contatta gli adetti ai blog <a href="mailto:blog@metagame.it"> cliccando qui</a><br>
+                    Contatta gli adetti ai blog <a href="mailto:blog@metagame.it"> cliccando qui</a><br><br><br>
 
                 </p>   
             </article>

@@ -17,7 +17,8 @@
         <?php
         include 'header.php';
         ?>
-            <article data-role="content">
+            <article >
+                <p id="path"> Home > Chi Siamo  </p>
                 <h1>Chi Siamo</h1>
                 <p>
                     Eccoci, è il tempo delle presentazioni...<br>
@@ -25,7 +26,7 @@
 
                     Se hai problemi, dubbi o domande, <a href="contatti.php"> clicca qui</a><br>
                     Social First, <a href="social.php"> eccoci</a><br>
-                    Vuoi scoprire i nostri punti vendta associati? <a href="puntivendita.php"> clicca qui</a><br>
+                    Vuoi scoprire i nostri punti vendta associati? <a href="puntivendita.php"> clicca qui</a><br><br><br>
                 </p>   
             </article>
 

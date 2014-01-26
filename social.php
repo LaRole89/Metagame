@@ -17,12 +17,13 @@
         <?php
         include 'header.php';
         ?>
-            <article data-role="content">
+            <article >
+                <p id="path"> Home > Chi Siamo > Social </p>
                 <h1>Social</h1>
                 <div id="conteinerCenter">
                     <a href="https://www.facebook.com/"><img src="img/social/Scheda_Facebook.jpg"></a>
                     <a href="https://twitter.com/"><img src="img/social/Scheda_Twitter.jpg"></a>
-                    <a href="http://www.google.com/intl/it_ALL/+/learnmore/"><img src="img/social/Scheda_Google+.jpg"></a>
+                    <a href="http://www.google.com/intl/it_ALL/+/learnmore/"><img src="img/social/Scheda_Google+.jpg"></a><br><br><br>
                 </div>   
             </article>
 
